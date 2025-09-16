@@ -2,8 +2,6 @@
 
 A Chrome extension that translates corporate jargon in SaaS pricing tables into plain English with humor.
 
-![Extension Icon](icons/icon128.png)
-
 ## 🎯 Features
 
 - **Smart Detection**: Automatically scans pricing pages for jargon terms
