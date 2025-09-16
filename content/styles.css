@@ -1,0 +1,256 @@
+/* Price-Splain Content Styles */
+
+:root {
+  /* Highlight Colors */
+  --highlight-warning: rgba(239, 68, 68, 0.15);
+  --highlight-neutral: rgba(251, 191, 36, 0.15);
+  --highlight-good: rgba(34, 197, 94, 0.15);
+  
+  /* Tooltip Colors */
+  --tooltip-bg: #1a1a1a;
+  --tooltip-text: #ffffff;
+  --tooltip-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  
+  /* Transitions */
+  --transition-fast: 0.2s ease;
+  --transition-smooth: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Base highlight style */
+.unjargon-term {
+  position: relative;
+  background: var(--highlight-neutral);
+  border-radius: 3px;
+  padding: 0 2px;
+  cursor: help;
+  transition: all var(--transition-fast);
+  display: inline;
+  line-height: inherit;
+  vertical-align: baseline;
+  word-break: normal;
+  white-space: nowrap;
+  margin: 0;
+}
+
+/* Severity-based colors */
+.unjargon-term.warning {
+  background: var(--highlight-warning);
+}
+
+.unjargon-term.good {
+  background: var(--highlight-good);
+}
+
+/* Hover state */
+.unjargon-term:hover {
+  filter: brightness(0.9);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Focus state for accessibility */
+.unjargon-term:focus {
+  outline: 2px solid #667eea;
+  outline-offset: 2px;
+}
+
+/* Smooth appear animation */
+body.unjargon-active .unjargon-term {
+  animation: fadeInHighlight 0.3s ease;
+}
+
+@keyframes fadeInHighlight {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Hide when inactive */
+body:not(.unjargon-active) .unjargon-term {
+  background: transparent !important;
+  cursor: inherit;
+  transform: none !important;
+  box-shadow: none !important;
+}
+
+/* Tooltip Styles */
+.unjargon-tooltip {
+  position: fixed;
+  z-index: 999999;
+  background: #2d2d2d;
+  color: #ffffff;
+  padding: 16px 20px;
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  max-width: 320px;
+  font-size: 14px;
+  line-height: 1.5;
+  pointer-events: none;
+  opacity: 0;
+  transform: translateY(8px);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.unjargon-tooltip.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Tooltip positioning variants */
+.unjargon-tooltip.tooltip-top {
+  transform: translateY(-4px);
+}
+
+.unjargon-tooltip.tooltip-top.visible {
+  transform: translateY(0);
+}
+
+/* Tooltip content structure */
+.tooltip-content {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.tooltip-translation {
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 15px;
+  line-height: 1.4;
+}
+
+.tooltip-explanation {
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.7);
+  font-style: normal;
+  line-height: 1.4;
+}
+
+/* Severity-based styling */
+.unjargon-tooltip.good {
+  border-left: 4px solid #10b981;
+}
+
+.unjargon-tooltip.warning {
+  border-left: 4px solid #f59e0b;
+}
+
+.unjargon-tooltip.neutral {
+  border-left: 4px solid #6b7280;
+}
+
+/* Arrow pointer */
+.unjargon-tooltip::before {
+  content: '';
+  position: absolute;
+  top: -6px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 12px;
+  height: 12px;
+  background: var(--tooltip-bg);
+  transform: rotate(45deg);
+  transform-origin: center;
+  z-index: -1;
+}
+
+.unjargon-tooltip.tooltip-top::before {
+  top: auto;
+  bottom: -6px;
+}
+
+/* Severity indicators */
+.tooltip-badge.warning {
+  color: #fbbf24;
+}
+
+.tooltip-badge.good {
+  color: #10b981;
+}
+
+.tooltip-badge.neutral {
+  color: #6b7280;
+}
+
+/* Performance optimizations */
+.unjargon-term {
+  will-change: transform, background-color;
+}
+
+.unjargon-tooltip {
+  will-change: opacity, transform;
+}
+
+/* Ensure tooltips don't interfere with page layout */
+.unjargon-tooltip {
+  position: fixed !important;
+  max-width: min(280px, 90vw);
+  word-wrap: break-word;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .unjargon-tooltip {
+    max-width: 90vw;
+    font-size: 13px;
+    padding: 10px 14px;
+  }
+  
+  .tooltip-translation {
+    font-size: 14px;
+  }
+  
+  .tooltip-explanation {
+    font-size: 12px;
+  }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .unjargon-tooltip {
+    --tooltip-bg: #2d2d2d;
+    --tooltip-text: #ffffff;
+  }
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  .unjargon-term {
+    border: 1px solid currentColor;
+  }
+  
+  .unjargon-tooltip {
+    border: 2px solid #ffffff;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .unjargon-term,
+  .unjargon-tooltip {
+    transition: none;
+  }
+  
+  .unjargon-term {
+    animation: none;
+  }
+}
+
+/* Print styles - hide highlights when printing */
+@media print {
+  .unjargon-term {
+    background: transparent !important;
+    border: none !important;
+  }
+  
+  .unjargon-tooltip {
+    display: none !important;
+  }
+}

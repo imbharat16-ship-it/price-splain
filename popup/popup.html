@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Price-Splain</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="popup-container">
+    <!-- Header Section -->
+    <header class="popup-header">
+      <div class="logo-section">
+        <div class="logo-icon">$</div>
+        <h1>PRICE-SPLAIN</h1>
+      </div>
+      <p class="tagline">Cut through the pricing jargon</p>
+    </header>
+    
+    <!-- Main Content -->
+    <main class="popup-main">
+      <!-- Toggle Section -->
+      <div class="toggle-section">
+        <div class="toggle-container">
+          <label class="toggle-switch" for="mainToggle">
+            <input type="checkbox" id="mainToggle" role="switch" aria-checked="false">
+            <span class="toggle-slider"></span>
+          </label>
+          <div class="toggle-label">
+            <span class="toggle-text">Splain Mode:</span>
+            <span class="toggle-status" id="toggleStatus">Off</span>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Stats Section -->
+      <div class="stats-section" id="statsSection">
+        <div class="stat-item">
+          <span class="stat-number" id="termCount">0</span>
+          <span class="stat-label">Terms Found</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-number" id="translationCount">0</span>
+          <span class="stat-label">Translations</span>
+        </div>
+      </div>
+      
+      <!-- Instructions -->
+      <div class="instructions-section">
+        <p class="instruction-text">
+          Hover over the highlighted text to see<br>
+          'what it actually means'
+        </p>
+      </div>
+    </main>
+    
+    <!-- Footer -->
+    <footer class="popup-footer">
+      <div class="footer-info">
+        <span class="version">v1.0.0</span>
+        <span class="separator">•</span>
+        <span class="status-indicator" id="statusIndicator">
+          <span class="status-dot"></span>
+          <span class="status-text">Ready</span>
+        </span>
+      </div>
+    </footer>
+  </div>
+  
+  <script src="popup.js"></script>
+</body>
+</html>

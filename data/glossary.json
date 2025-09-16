@@ -1,0 +1,5858 @@
+{
+  "Contact Sales": {
+    "translation": "Hidden pricing (have to ask)",
+    "severity": "warning",
+    "explanation": "Price not publicly listed",
+    "category": "pricing"
+  },
+  "Custom Pricing": {
+    "translation": "Pricing varies by company size",
+    "severity": "warning",
+    "explanation": "They'll charge what they think you can afford",
+    "category": "pricing"
+  },
+  "Request a Quote": {
+    "translation": "Fill out forms for pricing",
+    "severity": "warning",
+    "explanation": "Sales team will call you",
+    "category": "pricing"
+  },
+  "Enterprise Pricing": {
+    "translation": "If you have to ask, it's expensive",
+    "severity": "warning",
+    "explanation": "Usually 10x the listed price",
+    "category": "pricing"
+  },
+  "Get Pricing": {
+    "translation": "Pricing behind contact form",
+    "severity": "warning",
+    "explanation": "Prepare for sales calls",
+    "category": "pricing"
+  },
+  "Book a Demo": {
+    "translation": "See pricing after sales pitch",
+    "severity": "warning",
+    "explanation": "30-min pitch before price reveal",
+    "category": "pricing"
+  },
+  "Starting at": {
+    "translation": "Minimum price (goes up fast)",
+    "severity": "neutral",
+    "explanation": "Most features cost extra",
+    "category": "pricing"
+  },
+  "From $X": {
+    "translation": "Base price (addons extra)",
+    "severity": "neutral",
+    "explanation": "Real price is higher",
+    "category": "pricing"
+  },
+  "Flexible Pricing": {
+    "translation": "Price changes based on you",
+    "severity": "neutral",
+    "explanation": "Negotiable but unclear",
+    "category": "pricing"
+  },
+  "Volume Pricing": {
+    "translation": "Bulk discounts available",
+    "severity": "good",
+    "explanation": "Save money at scale",
+    "category": "pricing"
+  },
+  "Unlimited*": {
+    "translation": "Has hidden limits (check terms)",
+    "severity": "warning",
+    "explanation": "Never truly unlimited",
+    "category": "features"
+  },
+  "Unlimited Users": {
+    "translation": "No user limit (but expensive)",
+    "severity": "neutral",
+    "explanation": "Scales with your team",
+    "category": "features"
+  },
+  "Unlimited Storage": {
+    "translation": "Storage with fair use policy",
+    "severity": "neutral",
+    "explanation": "Soft caps exist",
+    "category": "features"
+  },
+  "Advanced Analytics": {
+    "translation": "Analytics (details unclear)",
+    "severity": "neutral",
+    "explanation": "Vague marketing term",
+    "category": "features"
+  },
+  "Enterprise-Grade": {
+    "translation": "Built for large companies",
+    "severity": "neutral",
+    "explanation": "Usually means expensive",
+    "category": "features"
+  },
+  "Professional Features": {
+    "translation": "Standard features renamed",
+    "severity": "neutral",
+    "explanation": "Marketing fluff",
+    "category": "features"
+  },
+  "Premium Support": {
+    "translation": "Faster support responses",
+    "severity": "good",
+    "explanation": "Actually helpful",
+    "category": "features"
+  },
+  "Real-time Sync": {
+    "translation": "Instant updates across devices",
+    "severity": "good",
+    "explanation": "Genuinely useful",
+    "category": "features"
+  },
+  "End-to-end Encryption": {
+    "translation": "Properly secured data",
+    "severity": "good",
+    "explanation": "Real security feature",
+    "category": "features"
+  },
+  "API Access": {
+    "translation": "For developer integrations",
+    "severity": "good",
+    "explanation": "Useful for automation",
+    "category": "features"
+  },
+  "Credits": {
+    "translation": "Prepaid usage units",
+    "severity": "neutral",
+    "explanation": "Pay upfront, use later",
+    "category": "usage"
+  },
+  "Monthly Credits": {
+    "translation": "Credits that reset monthly",
+    "severity": "neutral",
+    "explanation": "Use it or lose it",
+    "category": "usage"
+  },
+  "Credit Rollover": {
+    "translation": "Unused credits carry forward",
+    "severity": "good",
+    "explanation": "Don't lose what you paid for",
+    "category": "usage"
+  },
+  "Token-based": {
+    "translation": "Pay per word/action",
+    "severity": "neutral",
+    "explanation": "Common in AI tools",
+    "category": "usage"
+  },
+  "Per API Call": {
+    "translation": "Charged for each request",
+    "severity": "neutral",
+    "explanation": "Costs can add up",
+    "category": "usage"
+  },
+  "Per User": {
+    "translation": "Price multiplied by team size",
+    "severity": "neutral",
+    "explanation": "Gets expensive fast",
+    "category": "usage"
+  },
+  "Per Seat": {
+    "translation": "Price multiplied by team size",
+    "severity": "neutral",
+    "explanation": "Gets expensive fast",
+    "category": "usage"
+  },
+  "Per GB": {
+    "translation": "Storage/bandwidth pricing",
+    "severity": "neutral",
+    "explanation": "Monitor your usage",
+    "category": "usage"
+  },
+  "Overage Charges": {
+    "translation": "Extra fees for exceeding limits",
+    "severity": "warning",
+    "explanation": "Can be expensive",
+    "category": "usage"
+  },
+  "Pay as You Go": {
+    "translation": "No commitment, higher rates",
+    "severity": "neutral",
+    "explanation": "Flexible but pricey",
+    "category": "usage"
+  },
+  "Consumption-based": {
+    "translation": "Pay for what you use",
+    "severity": "neutral",
+    "explanation": "Hard to predict costs",
+    "category": "usage"
+  },
+  "Context Window": {
+    "translation": "AI's memory per conversation",
+    "severity": "neutral",
+    "explanation": "How much it remembers",
+    "category": "ai"
+  },
+  "Token Limits": {
+    "translation": "Max words per request",
+    "severity": "neutral",
+    "explanation": "Processing limits",
+    "category": "ai"
+  },
+  "Model Selection": {
+    "translation": "Choose AI quality/speed",
+    "severity": "good",
+    "explanation": "Pick what you need",
+    "category": "ai"
+  },
+  "Fine-tuned Models": {
+    "translation": "Custom-trained AI",
+    "severity": "good",
+    "explanation": "Better for specific tasks",
+    "category": "ai"
+  },
+  "Input Tokens": {
+    "translation": "Words you send to AI",
+    "severity": "neutral",
+    "explanation": "Charged both ways",
+    "category": "ai"
+  },
+  "Output Tokens": {
+    "translation": "Words AI sends back",
+    "severity": "neutral",
+    "explanation": "Charged both ways",
+    "category": "ai"
+  },
+  "Inference Time": {
+    "translation": "AI thinking speed",
+    "severity": "neutral",
+    "explanation": "Faster costs more",
+    "category": "ai"
+  },
+  "Background Agents": {
+    "translation": "Automated AI workers",
+    "severity": "good",
+    "explanation": "Runs tasks for you",
+    "category": "ai"
+  },
+  "Auto Mode": {
+    "translation": "AI picks best model",
+    "severity": "good",
+    "explanation": "Optimizes for you",
+    "category": "ai"
+  },
+  "Priority Queue": {
+    "translation": "Faster AI responses",
+    "severity": "neutral",
+    "explanation": "Pay for speed",
+    "category": "ai"
+  },
+  "Rate Limits": {
+    "translation": "Max requests per minute",
+    "severity": "neutral",
+    "explanation": "Prevents overuse",
+    "category": "ai"
+  },
+  "24/7 Support": {
+    "translation": "Always available (response time varies)",
+    "severity": "neutral",
+    "explanation": "Check actual response time",
+    "category": "support"
+  },
+  "Priority Support": {
+    "translation": "Faster than basic support",
+    "severity": "good",
+    "explanation": "Jump the queue",
+    "category": "support"
+  },
+  "Dedicated Support": {
+    "translation": "Assigned support person",
+    "severity": "good",
+    "explanation": "Personal help",
+    "category": "support"
+  },
+  "Email Support": {
+    "translation": "Support via email only",
+    "severity": "neutral",
+    "explanation": "Can be slow",
+    "category": "support"
+  },
+  "Live Chat": {
+    "translation": "Chat support (may be bot)",
+    "severity": "neutral",
+    "explanation": "Check if human",
+    "category": "support"
+  },
+  "Phone Support": {
+    "translation": "Call for help",
+    "severity": "good",
+    "explanation": "Direct assistance",
+    "category": "support"
+  },
+  "Community Support": {
+    "translation": "Help from other users",
+    "severity": "neutral",
+    "explanation": "Free but variable",
+    "category": "support"
+  },
+  "SLA Guarantee": {
+    "translation": "Uptime/response promise",
+    "severity": "good",
+    "explanation": "Accountability",
+    "category": "support"
+  },
+  "White-glove Service": {
+    "translation": "Premium hand-holding",
+    "severity": "good",
+    "explanation": "VIP treatment",
+    "category": "support"
+  },
+  "Onboarding Assistance": {
+    "translation": "Setup help included",
+    "severity": "good",
+    "explanation": "Good for beginners",
+    "category": "support"
+  },
+  "Webhook Support": {
+    "translation": "Real-time event notifications",
+    "severity": "good",
+    "explanation": "Instant updates",
+    "category": "technical"
+  },
+  "Native Integrations": {
+    "translation": "Built-in connections",
+    "severity": "good",
+    "explanation": "Works out of box",
+    "category": "technical"
+  },
+  "Third-party Integrations": {
+    "translation": "Connects to other tools",
+    "severity": "neutral",
+    "explanation": "May need setup",
+    "category": "technical"
+  },
+  "Zapier Integration": {
+    "translation": "No-code automation",
+    "severity": "good",
+    "explanation": "Easy workflows",
+    "category": "technical"
+  },
+  "Make Integration": {
+    "translation": "No-code automation",
+    "severity": "good",
+    "explanation": "Easy workflows",
+    "category": "technical"
+  },
+  "OAuth/SSO": {
+    "translation": "Single sign-on security",
+    "severity": "good",
+    "explanation": "One password",
+    "category": "technical"
+  },
+  "REST API": {
+    "translation": "Standard developer tools",
+    "severity": "good",
+    "explanation": "Well-documented",
+    "category": "technical"
+  },
+  "GraphQL API": {
+    "translation": "Flexible developer tools",
+    "severity": "good",
+    "explanation": "Query what you need",
+    "category": "technical"
+  },
+  "SDK Available": {
+    "translation": "Developer libraries",
+    "severity": "good",
+    "explanation": "Easier coding",
+    "category": "technical"
+  },
+  "Sandbox Environment": {
+    "translation": "Safe testing space",
+    "severity": "good",
+    "explanation": "Try without breaking",
+    "category": "technical"
+  },
+  "Custom Integrations": {
+    "translation": "Built specifically for you",
+    "severity": "warning",
+    "explanation": "Usually expensive",
+    "category": "technical"
+  },
+  "Cloud Storage": {
+    "translation": "Files on remote servers",
+    "severity": "neutral",
+    "explanation": "Accessible anywhere",
+    "category": "storage"
+  },
+  "Local Storage": {
+    "translation": "Files on your device",
+    "severity": "good",
+    "explanation": "You control it",
+    "category": "storage"
+  },
+  "Data Retention": {
+    "translation": "How long data is kept",
+    "severity": "neutral",
+    "explanation": "Important for compliance",
+    "category": "storage"
+  },
+  "Automatic Backups": {
+    "translation": "Regular data copies",
+    "severity": "good",
+    "explanation": "Prevents data loss",
+    "category": "storage"
+  },
+  "Version History": {
+    "translation": "Track file changes",
+    "severity": "good",
+    "explanation": "Undo mistakes",
+    "category": "storage"
+  },
+  "Data Export": {
+    "translation": "Download your data",
+    "severity": "good",
+    "explanation": "Not locked in",
+    "category": "storage"
+  },
+  "Cold Storage": {
+    "translation": "Cheap, slow storage",
+    "severity": "neutral",
+    "explanation": "For archives",
+    "category": "storage"
+  },
+  "CDN Included": {
+    "translation": "Fast global delivery",
+    "severity": "good",
+    "explanation": "Better performance",
+    "category": "storage"
+  },
+  "Bandwidth Limits": {
+    "translation": "Data transfer caps",
+    "severity": "neutral",
+    "explanation": "Can hit limits",
+    "category": "storage"
+  },
+  "Enterprise Security": {
+    "translation": "Enhanced security features",
+    "severity": "good",
+    "explanation": "Actually important",
+    "category": "security"
+  },
+  "SOC 2 Compliant": {
+    "translation": "Audited security practices",
+    "severity": "good",
+    "explanation": "Third-party verified",
+    "category": "security"
+  },
+  "GDPR Compliant": {
+    "translation": "EU privacy rules followed",
+    "severity": "good",
+    "explanation": "Privacy focused",
+    "category": "security"
+  },
+  "HIPAA Compliant": {
+    "translation": "Medical data secure",
+    "severity": "good",
+    "explanation": "Healthcare ready",
+    "category": "security"
+  },
+  "2FA": {
+    "translation": "Two-factor authentication",
+    "severity": "good",
+    "explanation": "Extra security",
+    "category": "security"
+  },
+  "MFA": {
+    "translation": "Multi-factor authentication",
+    "severity": "good",
+    "explanation": "Extra security",
+    "category": "security"
+  },
+  "Zero-Knowledge": {
+    "translation": "Provider can't see data",
+    "severity": "good",
+    "explanation": "True privacy",
+    "category": "security"
+  },
+  "Audit Logs": {
+    "translation": "Activity tracking",
+    "severity": "good",
+    "explanation": "See who did what",
+    "category": "security"
+  },
+  "Role-based Access": {
+    "translation": "Permission controls",
+    "severity": "good",
+    "explanation": "Limit access",
+    "category": "security"
+  },
+  "IP Whitelisting": {
+    "translation": "Restrict access locations",
+    "severity": "good",
+    "explanation": "Extra control",
+    "category": "security"
+  },
+  "Encryption at Rest": {
+    "translation": "Stored data encrypted",
+    "severity": "good",
+    "explanation": "Secure storage",
+    "category": "security"
+  },
+  "Team Workspaces": {
+    "translation": "Separate team areas",
+    "severity": "good",
+    "explanation": "Organized collaboration",
+    "category": "team"
+  },
+  "Unlimited Collaborators": {
+    "translation": "No limit on team members",
+    "severity": "good",
+    "explanation": "Scale freely",
+    "category": "team"
+  },
+  "Guest Access": {
+    "translation": "External user access",
+    "severity": "neutral",
+    "explanation": "Limited permissions",
+    "category": "team"
+  },
+  "Admin Controls": {
+    "translation": "Management tools",
+    "severity": "good",
+    "explanation": "Oversight ability",
+    "category": "team"
+  },
+  "User Permissions": {
+    "translation": "Access level controls",
+    "severity": "good",
+    "explanation": "Security feature",
+    "category": "team"
+  },
+  "Activity Dashboard": {
+    "translation": "See team activity",
+    "severity": "neutral",
+    "explanation": "Can feel like monitoring",
+    "category": "team"
+  },
+  "Shared Workspace": {
+    "translation": "Everyone sees everything",
+    "severity": "neutral",
+    "explanation": "No privacy",
+    "category": "team"
+  },
+  "Private Channels": {
+    "translation": "Restricted team areas",
+    "severity": "good",
+    "explanation": "Confidential work",
+    "category": "team"
+  },
+  "Team Analytics": {
+    "translation": "Usage statistics",
+    "severity": "neutral",
+    "explanation": "Track productivity",
+    "category": "team"
+  },
+  "Collaboration Tools": {
+    "translation": "Team features included",
+    "severity": "good",
+    "explanation": "Work together",
+    "category": "team"
+  },
+  "Annual Billing": {
+    "translation": "Pay yearly upfront",
+    "severity": "neutral",
+    "explanation": "Usually cheaper",
+    "category": "billing"
+  },
+  "Monthly Billing": {
+    "translation": "Pay each month",
+    "severity": "good",
+    "explanation": "More flexible",
+    "category": "billing"
+  },
+  "No Credit Card Required": {
+    "translation": "True free trial",
+    "severity": "good",
+    "explanation": "Try without commitment",
+    "category": "billing"
+  },
+  "Auto-renewal": {
+    "translation": "Automatic charges",
+    "severity": "neutral",
+    "explanation": "Remember to cancel",
+    "category": "billing"
+  },
+  "Prorated Billing": {
+    "translation": "Pay for partial period",
+    "severity": "good",
+    "explanation": "Fair pricing",
+    "category": "billing"
+  },
+  "Money-back Guarantee": {
+    "translation": "Refund if unhappy",
+    "severity": "good",
+    "explanation": "Risk-free trial",
+    "category": "billing"
+  },
+  "Contract Required": {
+    "translation": "Locked-in commitment",
+    "severity": "warning",
+    "explanation": "Hard to cancel",
+    "category": "billing"
+  },
+  "Month-to-month": {
+    "translation": "No long commitment",
+    "severity": "good",
+    "explanation": "Maximum flexibility",
+    "category": "billing"
+  },
+  "Setup Fees": {
+    "translation": "One-time startup cost",
+    "severity": "warning",
+    "explanation": "Hidden initial cost",
+    "category": "billing"
+  },
+  "Cancellation Fees": {
+    "translation": "Penalty for leaving",
+    "severity": "warning",
+    "explanation": "Expensive to quit",
+    "category": "billing"
+  },
+  "99.9% Uptime": {
+    "translation": "~8 hours downtime/year",
+    "severity": "neutral",
+    "explanation": "Industry standard",
+    "category": "performance"
+  },
+  "99.99% Uptime": {
+    "translation": "~1 hour downtime/year",
+    "severity": "good",
+    "explanation": "Very reliable",
+    "category": "performance"
+  },
+  "High Availability": {
+    "translation": "Redundant systems",
+    "severity": "good",
+    "explanation": "Stays online",
+    "category": "performance"
+  },
+  "Auto-scaling": {
+    "translation": "Grows with demand",
+    "severity": "good",
+    "explanation": "Handles traffic",
+    "category": "performance"
+  },
+  "Load Balancing": {
+    "translation": "Distributes traffic",
+    "severity": "good",
+    "explanation": "Better performance",
+    "category": "performance"
+  },
+  "Global CDN": {
+    "translation": "Fast worldwide",
+    "severity": "good",
+    "explanation": "Speed everywhere",
+    "category": "performance"
+  },
+  "Low Latency": {
+    "translation": "Fast response times",
+    "severity": "good",
+    "explanation": "Snappy performance",
+    "category": "performance"
+  },
+  "Real-time Updates": {
+    "translation": "Instant changes",
+    "severity": "good",
+    "explanation": "No delays",
+    "category": "performance"
+  },
+  "Blazing Fast": {
+    "translation": "Marketing for 'fast'",
+    "severity": "neutral",
+    "explanation": "Subjective claim",
+    "category": "performance"
+  },
+  "Lightning Speed": {
+    "translation": "Another way to say fast",
+    "severity": "neutral",
+    "explanation": "Marketing fluff",
+    "category": "performance"
+  },
+  "Game-changing": {
+    "translation": "Probably not",
+    "severity": "neutral",
+    "explanation": "Overhyped",
+    "category": "marketing"
+  },
+  "Revolutionary": {
+    "translation": "Slightly improved",
+    "severity": "neutral",
+    "explanation": "Marketing speak",
+    "category": "marketing"
+  },
+  "Industry-leading": {
+    "translation": "We think we're good",
+    "severity": "neutral",
+    "explanation": "Self-proclaimed",
+    "category": "marketing"
+  },
+  "Award-winning": {
+    "translation": "Got an award somewhere",
+    "severity": "neutral",
+    "explanation": "Check which award",
+    "category": "marketing"
+  },
+  "Best-in-class": {
+    "translation": "Good (according to us)",
+    "severity": "neutral",
+    "explanation": "Subjective",
+    "category": "marketing"
+  },
+  "Cutting-edge": {
+    "translation": "Using recent tech",
+    "severity": "neutral",
+    "explanation": "May be unstable",
+    "category": "marketing"
+  },
+  "Next-generation": {
+    "translation": "Newer version",
+    "severity": "neutral",
+    "explanation": "Incremental update",
+    "category": "marketing"
+  },
+  "Innovative": {
+    "translation": "Has some new features",
+    "severity": "neutral",
+    "explanation": "Subjective term",
+    "category": "marketing"
+  },
+  "Disruptive": {
+    "translation": "Trying to compete",
+    "severity": "neutral",
+    "explanation": "May not last",
+    "category": "marketing"
+  },
+  "World-class": {
+    "translation": "International quality",
+    "severity": "neutral",
+    "explanation": "Vague claim",
+    "category": "marketing"
+  },
+  "Fair Use Policy": {
+    "translation": "Hidden limits exist",
+    "severity": "warning",
+    "explanation": "Can suspend you",
+    "category": "limits"
+  },
+  "Acceptable Use": {
+    "translation": "Terms you must follow",
+    "severity": "neutral",
+    "explanation": "Read carefully",
+    "category": "limits"
+  },
+  "Soft Limits": {
+    "translation": "Flexible boundaries",
+    "severity": "neutral",
+    "explanation": "Can be exceeded",
+    "category": "limits"
+  },
+  "Hard Limits": {
+    "translation": "Absolute maximums",
+    "severity": "neutral",
+    "explanation": "Cannot exceed",
+    "category": "limits"
+  },
+  "Rate Limiting": {
+    "translation": "Speed restrictions",
+    "severity": "neutral",
+    "explanation": "Prevents abuse",
+    "category": "limits"
+  },
+  "Quota": {
+    "translation": "Usage allowance",
+    "severity": "neutral",
+    "explanation": "Monthly limits",
+    "category": "limits"
+  },
+  "Throttling": {
+    "translation": "Slowed when over limit",
+    "severity": "warning",
+    "explanation": "Performance hit",
+    "category": "limits"
+  },
+  "Burst Capacity": {
+    "translation": "Temporary higher limits",
+    "severity": "good",
+    "explanation": "Handle spikes",
+    "category": "limits"
+  },
+  "Reserved Capacity": {
+    "translation": "Guaranteed resources",
+    "severity": "good",
+    "explanation": "Always available",
+    "category": "limits"
+  },
+  "On-demand": {
+    "translation": "Available when needed",
+    "severity": "neutral",
+    "explanation": "May have delays",
+    "category": "limits"
+  },
+  "Free Forever": {
+    "translation": "Actually free tier",
+    "severity": "good",
+    "explanation": "No payment needed",
+    "category": "trial"
+  },
+  "Free Trial": {
+    "translation": "Temporary free access",
+    "severity": "neutral",
+    "explanation": "Will charge later",
+    "category": "trial"
+  },
+  "Freemium": {
+    "translation": "Free with paid upgrades",
+    "severity": "neutral",
+    "explanation": "Limited free version",
+    "category": "trial"
+  },
+  "14-day Trial": {
+    "translation": "Two weeks to test",
+    "severity": "neutral",
+    "explanation": "Set reminder",
+    "category": "trial"
+  },
+  "No Credit Card": {
+    "translation": "True free trial",
+    "severity": "good",
+    "explanation": "No surprise charges",
+    "category": "trial"
+  },
+  "Limited Trial": {
+    "translation": "Restricted features",
+    "severity": "neutral",
+    "explanation": "Not full access",
+    "category": "trial"
+  },
+  "Full-featured Trial": {
+    "translation": "Complete access",
+    "severity": "good",
+    "explanation": "Try everything",
+    "category": "trial"
+  },
+  "Developer Preview": {
+    "translation": "Early access version",
+    "severity": "neutral",
+    "explanation": "May have bugs",
+    "category": "trial"
+  },
+  "Beta Access": {
+    "translation": "Testing phase",
+    "severity": "neutral",
+    "explanation": "Expect issues",
+    "category": "trial"
+  },
+  "Lifetime Deal": {
+    "translation": "One-time payment",
+    "severity": "good",
+    "explanation": "No recurring fees",
+    "category": "trial"
+  },
+  "Custom Solutions": {
+    "translation": "We'll charge whatever",
+    "severity": "warning",
+    "explanation": "Hidden pricing",
+    "category": "pricing"
+  },
+  "AI-Powered": {
+    "translation": "Uses some AI (probably basic)",
+    "severity": "neutral",
+    "explanation": "Marketing term for automation",
+    "category": "features"
+  },
+  "More usage*": {
+    "translation": "More than free (but how much?)",
+    "severity": "warning",
+    "explanation": "The asterisk hides the real limits",
+    "category": "usage"
+  },
+  "Choose 5x or 20x more": {
+    "translation": "5x or 20x of... something vague",
+    "severity": "warning",
+    "explanation": "More than what? They won't say",
+    "category": "usage"
+  },
+  "5x more usage": {
+    "translation": "5 times more than... who knows?",
+    "severity": "warning",
+    "explanation": "The baseline is a mystery",
+    "category": "usage"
+  },
+  "20x more usage": {
+    "translation": "20 times more than... ???",
+    "severity": "warning",
+    "explanation": "Even bigger mystery number",
+    "category": "usage"
+  },
+  "Additional usage limits apply": {
+    "translation": "There are more hidden limits",
+    "severity": "warning",
+    "explanation": "Fine print = gotchas",
+    "category": "limits"
+  },
+  "Usage limits apply": {
+    "translation": "There are hidden caps",
+    "severity": "warning",
+    "explanation": "Read the fine print",
+    "category": "limits"
+  },
+  "Standard seat": {
+    "translation": "Basic user license",
+    "severity": "neutral",
+    "explanation": "One person, basic features",
+    "category": "pricing"
+  },
+  "Premium seat": {
+    "translation": "Expensive user license",
+    "severity": "warning",
+    "explanation": "One person, all features ($$$)",
+    "category": "pricing"
+  },
+  "Per person / month": {
+    "translation": "Multiply by team size",
+    "severity": "neutral",
+    "explanation": "Gets expensive fast",
+    "category": "pricing"
+  },
+  "Minimum 5 members": {
+    "translation": "Forced team pricing",
+    "severity": "warning",
+    "explanation": "Can't buy for 1 person",
+    "category": "pricing"
+  },
+  "Annual subscription discount": {
+    "translation": "Pay yearly to save money",
+    "severity": "good",
+    "explanation": "But you're locked in",
+    "category": "billing"
+  },
+  "Billed up front": {
+    "translation": "Pay the whole year now",
+    "severity": "warning",
+    "explanation": "No monthly option",
+    "category": "billing"
+  },
+  "Prices shown do not include applicable tax": {
+    "translation": "Add 10-20% for taxes",
+    "severity": "warning",
+    "explanation": "Real price is higher",
+    "category": "pricing"
+  },
+  "Batch processing": {
+    "translation": "Wait for results (save 50%)",
+    "severity": "neutral",
+    "explanation": "Cheaper but slower",
+    "category": "performance"
+  },
+  "Save 50% with batch processing": {
+    "translation": "Wait longer, pay less",
+    "severity": "good",
+    "explanation": "Trade speed for money",
+    "category": "performance"
+  },
+  "Priority access": {
+    "translation": "Jump the queue (pay extra)",
+    "severity": "neutral",
+    "explanation": "Faster service costs more",
+    "category": "performance"
+  },
+  "Early access": {
+    "translation": "Beta features (may break)",
+    "severity": "neutral",
+    "explanation": "New stuff, expect bugs",
+    "category": "features"
+  },
+  "Enhanced context window": {
+    "translation": "AI remembers more",
+    "severity": "good",
+    "explanation": "Better conversation memory",
+    "category": "ai"
+  },
+  "Fine grained permissioning": {
+    "translation": "Detailed access controls",
+    "severity": "good",
+    "explanation": "Granular security settings",
+    "category": "security"
+  },
+  "Domain capture": {
+    "translation": "Auto-add company emails",
+    "severity": "neutral",
+    "explanation": "Convenient but invasive",
+    "category": "security"
+  },
+  "SCIM": {
+    "translation": "Sync users automatically",
+    "severity": "good",
+    "explanation": "IT admin convenience",
+    "category": "security"
+  },
+  "Google Docs cataloging": {
+    "translation": "Index your Google Docs",
+    "severity": "neutral",
+    "explanation": "AI can search your docs",
+    "category": "features"
+  },
+  "Compliance API": {
+    "translation": "Audit your usage",
+    "severity": "neutral",
+    "explanation": "Track everything (privacy?)",
+    "category": "security"
+  },
+  "Observability and monitoring": {
+    "translation": "Watch everything happen",
+    "severity": "neutral",
+    "explanation": "Big Brother features",
+    "category": "security"
+  },
+  "Prompt caching": {
+    "translation": "Reuse parts of requests",
+    "severity": "good",
+    "explanation": "Save money on repeated text",
+    "category": "ai"
+  },
+  "TTL": {
+    "translation": "Time To Live (expires)",
+    "severity": "neutral",
+    "explanation": "Cache expires after time",
+    "category": "technical"
+  },
+  "5-minute TTL": {
+    "translation": "Cache expires in 5 minutes",
+    "severity": "neutral",
+    "explanation": "Short-term savings",
+    "category": "technical"
+  },
+  "Extended prompt caching": {
+    "translation": "Longer cache duration",
+    "severity": "good",
+    "explanation": "Better savings over time",
+    "category": "ai"
+  },
+  "Fair use policy": {
+    "translation": "We can cut you off",
+    "severity": "warning",
+    "explanation": "Hidden limits exist",
+    "category": "limits"
+  },
+  "Acceptable use policy": {
+    "translation": "Rules you must follow",
+    "severity": "neutral",
+    "explanation": "Read or get banned",
+    "category": "limits"
+  },
+  "Free hours daily": {
+    "translation": "50 free hours per day",
+    "severity": "good",
+    "explanation": "Generous free tier",
+    "category": "trial"
+  },
+  "Per container": {
+    "translation": "Per running instance",
+    "severity": "neutral",
+    "explanation": "Each process costs money",
+    "category": "usage"
+  },
+  "Sandboxed environment": {
+    "translation": "Safe code execution",
+    "severity": "good",
+    "explanation": "Can't break anything",
+    "category": "technical"
+  },
+  "Service tiers": {
+    "translation": "Different speed/price options",
+    "severity": "neutral",
+    "explanation": "Choose your priority level",
+    "category": "performance"
+  },
+  "Predictable costs": {
+    "translation": "Fixed pricing (no surprises)",
+    "severity": "good",
+    "explanation": "You know what you'll pay",
+    "category": "pricing"
+  },
+  "Asynchronous workloads": {
+    "translation": "Background processing",
+    "severity": "neutral",
+    "explanation": "Runs while you sleep",
+    "category": "performance"
+  },
+  "Legacy models": {
+    "translation": "Older, cheaper AI models",
+    "severity": "neutral",
+    "explanation": "Still work, just slower",
+    "category": "ai"
+  },
+  "Latest models": {
+    "translation": "Newest, most expensive AI",
+    "severity": "warning",
+    "explanation": "Cutting edge = expensive",
+    "category": "ai"
+  },
+  "Most intelligent model": {
+    "translation": "Best AI (highest price)",
+    "severity": "warning",
+    "explanation": "Premium = premium price",
+    "category": "ai"
+  },
+  "Optimal balance": {
+    "translation": "Good enough for most",
+    "severity": "good",
+    "explanation": "Sweet spot of price/quality",
+    "category": "ai"
+  },
+  "Fastest, most cost-effective": {
+    "translation": "Cheap and quick",
+    "severity": "good",
+    "explanation": "Budget option that works",
+    "category": "ai"
+  },
+  "Prompts ≤ 200K tokens": {
+    "translation": "Short requests (cheaper)",
+    "severity": "good",
+    "explanation": "Under 200K words = discount",
+    "category": "ai"
+  },
+  "Prompts > 200K tokens": {
+    "translation": "Long requests (expensive)",
+    "severity": "warning",
+    "explanation": "Over 200K words = premium",
+    "category": "ai"
+  },
+  "MTok": {
+    "translation": "Million tokens (words)",
+    "severity": "neutral",
+    "explanation": "Bulk pricing unit",
+    "category": "ai"
+  },
+  "Web search": {
+    "translation": "AI can browse internet",
+    "severity": "good",
+    "explanation": "Real-time information access",
+    "category": "features"
+  },
+  "Per 1K searches": {
+    "translation": "Every 1000 web searches",
+    "severity": "neutral",
+    "explanation": "Usage-based pricing",
+    "category": "usage"
+  },
+  "Free hours daily per organization": {
+    "translation": "50 free hours for your company",
+    "severity": "good",
+    "explanation": "Generous team allowance",
+    "category": "trial"
+  },
+  "Per hour per container": {
+    "translation": "Each running process costs",
+    "severity": "neutral",
+    "explanation": "Time-based + instance-based",
+    "category": "usage"
+  },
+  "Open source": {
+    "translation": "Free code, paid hosting/support",
+    "severity": "good",
+    "explanation": "Self-host for free, or pay for convenience",
+    "category": "pricing"
+  },
+  "Self-hosted": {
+    "translation": "Run on your own servers",
+    "severity": "good",
+    "explanation": "Free but you manage everything",
+    "category": "pricing"
+  },
+  "Managed hosting": {
+    "translation": "We run it for you (pay extra)",
+    "severity": "neutral",
+    "explanation": "Convenience tax",
+    "category": "pricing"
+  },
+  "Usage-based pricing": {
+    "translation": "Pay for what you actually use",
+    "severity": "good",
+    "explanation": "Fair but hard to predict costs",
+    "category": "pricing"
+  },
+  "Seat-based pricing": {
+    "translation": "Price per person on your team",
+    "severity": "neutral",
+    "explanation": "Gets expensive with team growth",
+    "category": "pricing"
+  },
+  "Feature-based pricing": {
+    "translation": "Pay for specific capabilities",
+    "severity": "neutral",
+    "explanation": "Modular but can add up quickly",
+    "category": "pricing"
+  },
+  "Freemium": {
+    "translation": "Free version with paid upgrades",
+    "severity": "good",
+    "explanation": "Try before you buy",
+    "category": "pricing"
+  },
+  "14-day free trial": {
+    "translation": "Two weeks to decide",
+    "severity": "neutral",
+    "explanation": "Set a reminder to cancel",
+    "category": "trial"
+  },
+  "No-code platform": {
+    "translation": "Build apps without coding",
+    "severity": "good",
+    "explanation": "Visual app building",
+    "category": "features"
+  },
+  "Modular building blocks": {
+    "translation": "Pre-built components you assemble",
+    "severity": "good",
+    "explanation": "Like LEGO for software",
+    "category": "features"
+  },
+  "Custom software": {
+    "translation": "Built specifically for you",
+    "severity": "warning",
+    "explanation": "Usually very expensive",
+    "category": "pricing"
+  },
+  "Book a demo": {
+    "translation": "Sales pitch before pricing",
+    "severity": "warning",
+    "explanation": "30+ minutes of persuasion",
+    "category": "pricing"
+  },
+  "Pricing calculator": {
+    "translation": "Interactive cost estimator",
+    "severity": "good",
+    "explanation": "See your actual costs",
+    "category": "features"
+  },
+  "Return on investment": {
+    "translation": "ROI - how much you'll save/earn",
+    "severity": "good",
+    "explanation": "Business value calculation",
+    "category": "pricing"
+  },
+  "Comparison table": {
+    "translation": "Side-by-side feature grid",
+    "severity": "good",
+    "explanation": "Shows where they excel",
+    "category": "features"
+  },
+  "Hall of Fame": {
+    "translation": "Award for good pricing page",
+    "severity": "good",
+    "explanation": "Actually transparent pricing",
+    "category": "marketing"
+  },
+  "Self-serve option": {
+    "translation": "Buy without talking to sales",
+    "severity": "good",
+    "explanation": "No human interaction needed",
+    "category": "pricing"
+  },
+  "Target users": {
+    "translation": "Who this plan is designed for",
+    "severity": "neutral",
+    "explanation": "Company size/type",
+    "category": "marketing"
+  },
+  "Solopreneurs": {
+    "translation": "One-person businesses",
+    "severity": "neutral",
+    "explanation": "Individual entrepreneurs",
+    "category": "marketing"
+  },
+  "Mid-sized companies": {
+    "translation": "50-500 employees",
+    "severity": "neutral",
+    "explanation": "Medium business size",
+    "category": "marketing"
+  },
+  "Large companies": {
+    "translation": "500+ employees",
+    "severity": "warning",
+    "explanation": "Enterprise pricing territory",
+    "category": "marketing"
+  },
+  "Transparent pricing": {
+    "translation": "No hidden fees or surprises",
+    "severity": "good",
+    "explanation": "What you see is what you pay",
+    "category": "pricing"
+  },
+  "Pricing strategy": {
+    "translation": "How they decide what to charge",
+    "severity": "neutral",
+    "explanation": "Business model approach",
+    "category": "marketing"
+  },
+  "Conversion rates": {
+    "translation": "How many visitors buy",
+    "severity": "neutral",
+    "explanation": "Pricing page effectiveness",
+    "category": "marketing"
+  },
+  "Customer testimonials": {
+    "translation": "Reviews from real users",
+    "severity": "good",
+    "explanation": "Social proof for credibility",
+    "category": "marketing"
+  },
+  "Trust building": {
+    "translation": "Making you feel confident",
+    "severity": "good",
+    "explanation": "Reducing purchase anxiety",
+    "category": "marketing"
+  },
+  "Purchase decisions": {
+    "translation": "Whether you buy or not",
+    "severity": "neutral",
+    "explanation": "The moment of truth",
+    "category": "marketing"
+  },
+  "Pricing page design": {
+    "translation": "How the page looks and flows",
+    "severity": "neutral",
+    "explanation": "Visual presentation matters",
+    "category": "marketing"
+  },
+  "Copywriting": {
+    "translation": "The words used to sell",
+    "severity": "neutral",
+    "explanation": "Persuasive text strategy",
+    "category": "marketing"
+  },
+  "Pricing page roasts": {
+    "translation": "Expert critiques of pricing pages",
+    "severity": "neutral",
+    "explanation": "Professional feedback service",
+    "category": "marketing"
+  },
+  "Free audit": {
+    "translation": "Free pricing page review",
+    "severity": "good",
+    "explanation": "No-cost analysis",
+    "category": "marketing"
+  },
+  "Pricing page calculators": {
+    "translation": "Interactive cost tools",
+    "severity": "good",
+    "explanation": "Customize and see real prices",
+    "category": "features"
+  },
+  "Billing implementation": {
+    "translation": "How payments are processed",
+    "severity": "neutral",
+    "explanation": "Technical payment setup",
+    "category": "technical"
+  },
+  "Stripe integration": {
+    "translation": "Payment processing via Stripe",
+    "severity": "neutral",
+    "explanation": "Popular payment processor",
+    "category": "technical"
+  },
+  "Pricing pages without prices": {
+    "translation": "Pages that hide actual costs",
+    "severity": "warning",
+    "explanation": "Force you to contact sales",
+    "category": "pricing"
+  },
+  "Service add-ons": {
+    "translation": "Extra features for extra cost",
+    "severity": "neutral",
+    "explanation": "Additional charges",
+    "category": "pricing"
+  },
+  "Pricing page library": {
+    "translation": "Collection of pricing examples",
+    "severity": "neutral",
+    "explanation": "Reference for best practices",
+    "category": "marketing"
+  },
+  "Product Hunt Badge": {
+    "translation": "Award from Product Hunt",
+    "severity": "good",
+    "explanation": "Community recognition",
+    "category": "marketing"
+  },
+  "Newsletter": {
+    "translation": "Email updates about pricing",
+    "severity": "neutral",
+    "explanation": "Regular pricing insights",
+    "category": "marketing"
+  },
+  "Wall of love": {
+    "translation": "Collection of customer praise",
+    "severity": "good",
+    "explanation": "Social proof display",
+    "category": "marketing"
+  },
+  "Most popular": {
+    "translation": "What they want you to buy",
+    "severity": "neutral",
+    "explanation": "Highest profit margin plan",
+    "category": "marketing"
+  },
+  "Recommended": {
+    "translation": "Recommended for their revenue",
+    "severity": "neutral",
+    "explanation": "Not necessarily best for you",
+    "category": "marketing"
+  },
+  "Best value": {
+    "translation": "Best value for them",
+    "severity": "neutral",
+    "explanation": "Usually the middle tier",
+    "category": "marketing"
+  },
+  "Most affordable": {
+    "translation": "Cheapest option",
+    "severity": "good",
+    "explanation": "Lowest price point",
+    "category": "pricing"
+  },
+  "Best for": {
+    "translation": "Targeted at specific users",
+    "severity": "neutral",
+    "explanation": "Marketing segmentation",
+    "category": "marketing"
+  },
+  "Ideal for": {
+    "translation": "Perfect for... (according to them)",
+    "severity": "neutral",
+    "explanation": "Their opinion of what you need",
+    "category": "marketing"
+  },
+  "Perfect for": {
+    "translation": "Perfect for their bottom line",
+    "severity": "neutral",
+    "explanation": "Marketing speak",
+    "category": "marketing"
+  },
+  "Designed for": {
+    "translation": "Built with this user in mind",
+    "severity": "neutral",
+    "explanation": "Targeted features",
+    "category": "marketing"
+  },
+  "Built for": {
+    "translation": "Created specifically for",
+    "severity": "neutral",
+    "explanation": "Purpose-built",
+    "category": "marketing"
+  },
+  "Scalable": {
+    "translation": "Grows with your business (and costs)",
+    "severity": "warning",
+    "explanation": "Expensive as you grow",
+    "category": "features"
+  },
+  "Future-proof": {
+    "translation": "Will work for a while",
+    "severity": "neutral",
+    "explanation": "No guarantees about forever",
+    "category": "features"
+  },
+  "Industry standard": {
+    "translation": "What everyone else does",
+    "severity": "neutral",
+    "explanation": "Not necessarily good",
+    "category": "marketing"
+  },
+  "Best practices": {
+    "translation": "Common approaches",
+    "severity": "neutral",
+    "explanation": "Standard methods",
+    "category": "marketing"
+  },
+  "Proven track record": {
+    "translation": "Has worked for others",
+    "severity": "good",
+    "explanation": "Real experience",
+    "category": "marketing"
+  },
+  "Battle-tested": {
+    "translation": "Used in real situations",
+    "severity": "good",
+    "explanation": "Proven under pressure",
+    "category": "marketing"
+  },
+  "Production-ready": {
+    "translation": "Safe to use for real work",
+    "severity": "good",
+    "explanation": "Stable and reliable",
+    "category": "technical"
+  },
+  "Enterprise-ready": {
+    "translation": "Built for big companies",
+    "severity": "warning",
+    "explanation": "Usually expensive",
+    "category": "marketing"
+  },
+  "Mission-critical": {
+    "translation": "Essential for your business",
+    "severity": "warning",
+    "explanation": "Expensive but necessary",
+    "category": "marketing"
+  },
+  "Business-critical": {
+    "translation": "Vital for operations",
+    "severity": "warning",
+    "explanation": "High priority = high price",
+    "category": "marketing"
+  },
+  "Time-sensitive": {
+    "translation": "Urgent deadlines",
+    "severity": "warning",
+    "explanation": "Rush pricing applies",
+    "category": "marketing"
+  },
+  "Limited time offer": {
+    "translation": "Artificial urgency",
+    "severity": "warning",
+    "explanation": "FOMO marketing tactic",
+    "category": "marketing"
+  },
+  "While supplies last": {
+    "translation": "Scarcity marketing",
+    "severity": "warning",
+    "explanation": "Creating fake urgency",
+    "category": "marketing"
+  },
+  "Exclusive offer": {
+    "translation": "Special deal (maybe)",
+    "severity": "neutral",
+    "explanation": "Could be real or fake",
+    "category": "marketing"
+  },
+  "VIP access": {
+    "translation": "Premium treatment",
+    "severity": "neutral",
+    "explanation": "Pay more for priority",
+    "category": "marketing"
+  },
+  "Priority support": {
+    "translation": "Jump the queue (pay extra)",
+    "severity": "neutral",
+    "explanation": "Faster help costs more",
+    "category": "support"
+  },
+  "White-label": {
+    "translation": "Remove their branding",
+    "severity": "good",
+    "explanation": "Use your own brand",
+    "category": "features"
+  },
+  "Custom branding": {
+    "translation": "Put your logo on it",
+    "severity": "good",
+    "explanation": "Personalize the experience",
+    "category": "features"
+  },
+  "Multi-tenant": {
+    "translation": "Multiple customers on one system",
+    "severity": "neutral",
+    "explanation": "Shared infrastructure",
+    "category": "technical"
+  },
+  "Single-tenant": {
+    "translation": "Dedicated system for you",
+    "severity": "good",
+    "explanation": "Better security, higher cost",
+    "category": "technical"
+  },
+  "Dedicated resources": {
+    "translation": "Reserved just for you",
+    "severity": "good",
+    "explanation": "Guaranteed performance",
+    "category": "technical"
+  },
+  "Shared resources": {
+    "translation": "Split with other customers",
+    "severity": "neutral",
+    "explanation": "Cheaper but less predictable",
+    "category": "technical"
+  },
+  "Resource pooling": {
+    "translation": "Shared infrastructure",
+    "severity": "neutral",
+    "explanation": "Cost-effective but variable",
+    "category": "technical"
+  },
+  "Dynamic scaling": {
+    "translation": "Automatically adjusts size",
+    "severity": "good",
+    "explanation": "Handles traffic spikes",
+    "category": "technical"
+  },
+  "Auto-scaling": {
+    "translation": "Grows/shrinks automatically",
+    "severity": "good",
+    "explanation": "Handles demand changes",
+    "category": "technical"
+  },
+  "Manual scaling": {
+    "translation": "You control the size",
+    "severity": "neutral",
+    "explanation": "More control, more work",
+    "category": "technical"
+  },
+  "Burst capacity": {
+    "translation": "Handle traffic spikes",
+    "severity": "good",
+    "explanation": "Extra power when needed",
+    "category": "technical"
+  },
+  "Reserved capacity": {
+    "translation": "Guaranteed resources",
+    "severity": "good",
+    "explanation": "Always available",
+    "category": "technical"
+  },
+  "On-demand scaling": {
+    "translation": "Scale up when needed",
+    "severity": "good",
+    "explanation": "Pay for what you use",
+    "category": "technical"
+  },
+  "Predictable costs": {
+    "translation": "Fixed pricing (no surprises)",
+    "severity": "good",
+    "explanation": "You know what you'll pay",
+    "category": "pricing"
+  },
+  "Variable costs": {
+    "translation": "Changes based on usage",
+    "severity": "neutral",
+    "explanation": "Hard to predict",
+    "category": "pricing"
+  },
+  "Fixed costs": {
+    "translation": "Same price every month",
+    "severity": "good",
+    "explanation": "Predictable budgeting",
+    "category": "pricing"
+  },
+  "Hidden costs": {
+    "translation": "Extra charges not shown upfront",
+    "severity": "warning",
+    "explanation": "Read the fine print",
+    "category": "pricing"
+  },
+  "Setup fees": {
+    "translation": "One-time startup cost",
+    "severity": "warning",
+    "explanation": "Hidden initial expense",
+    "category": "pricing"
+  },
+  "Migration fees": {
+    "translation": "Cost to move your data",
+    "severity": "warning",
+    "explanation": "Expensive to switch",
+    "category": "pricing"
+  },
+  "Data export fees": {
+    "translation": "Charge to get your data back",
+    "severity": "warning",
+    "explanation": "Expensive to leave",
+    "category": "pricing"
+  },
+  "Cancellation fees": {
+    "translation": "Penalty for leaving",
+    "severity": "warning",
+    "explanation": "Expensive to quit",
+    "category": "pricing"
+  },
+  "Early termination fees": {
+    "translation": "Cost to break contract early",
+    "severity": "warning",
+    "explanation": "Locked in pricing",
+    "category": "pricing"
+  },
+  "collaboration": {
+    "translation": "Working together as a team",
+    "severity": "good",
+    "explanation": "Shared access and teamwork features",
+    "category": "features"
+  },
+  "Contact Sales": {
+    "translation": "Talk to a human who will charge you more",
+    "severity": "warning",
+    "explanation": "No transparent pricing - prepare to negotiate",
+    "category": "pricing"
+  },
+  "Unlimited*": {
+    "translation": "Unlimited until we change our minds",
+    "severity": "warning",
+    "explanation": "The asterisk is doing a lot of heavy lifting here",
+    "category": "limits"
+  },
+  "Enterprise-Grade": {
+    "translation": "Built for companies with deep pockets",
+    "severity": "warning",
+    "explanation": "Enterprise features that cost enterprise prices",
+    "category": "marketing"
+  },
+  "AI-Powered": {
+    "translation": "Uses AI (probably just a chatbot)",
+    "severity": "neutral",
+    "explanation": "Buzzword for 'we have a machine learning model somewhere'",
+    "category": "features"
+  },
+  "Custom Solutions": {
+    "translation": "We'll build whatever you want (for a price)",
+    "severity": "warning",
+    "explanation": "Tailored to your needs and your budget",
+    "category": "pricing"
+  },
+  "API Access": {
+    "translation": "Connect to other software",
+    "severity": "good",
+    "explanation": "Integrate with your existing tools",
+    "category": "features"
+  },
+  "24/7 Support": {
+    "translation": "Help available all the time",
+    "severity": "good",
+    "explanation": "Round-the-clock customer service",
+    "category": "support"
+  },
+  "Credits": {
+    "translation": "Prepaid usage units",
+    "severity": "neutral",
+    "explanation": "Buy in advance, use as needed",
+    "category": "pricing"
+  },
+  "Standard seat": {
+    "translation": "Basic user license",
+    "severity": "neutral",
+    "explanation": "One person, basic features",
+    "category": "pricing"
+  },
+  "Premium seat": {
+    "translation": "Expensive user license",
+    "severity": "warning",
+    "explanation": "One person, all features ($$$)",
+    "category": "pricing"
+  },
+  "Per person / month": {
+    "translation": "Multiply by team size",
+    "severity": "neutral",
+    "explanation": "Gets expensive fast",
+    "category": "pricing"
+  },
+  "Minimum 5 members": {
+    "translation": "Forced team pricing",
+    "severity": "warning",
+    "explanation": "Can't buy for 1 person",
+    "category": "pricing"
+  },
+  "Annual subscription discount": {
+    "translation": "Pay yearly to save money",
+    "severity": "good",
+    "explanation": "But you're locked in",
+    "category": "billing"
+  },
+  "Billed up front": {
+    "translation": "Pay the whole year now",
+    "severity": "warning",
+    "explanation": "No monthly option",
+    "category": "billing"
+  },
+  "Prices shown do not include applicable tax": {
+    "translation": "Add 10-20% for taxes",
+    "severity": "warning",
+    "explanation": "Real price is higher",
+    "category": "pricing"
+  },
+  "More usage": {
+    "translation": "More than free (but how much?)",
+    "severity": "warning",
+    "explanation": "The limits are hidden",
+    "category": "usage"
+  },
+  "Central billing and administration": {
+    "translation": "One bill for the whole team",
+    "severity": "good",
+    "explanation": "Easier to manage payments",
+    "category": "billing"
+  },
+  "Early access to collaboration features": {
+    "translation": "Beta teamwork tools",
+    "severity": "neutral",
+    "explanation": "New features, may have bugs",
+    "category": "features"
+  },
+  "Claude Code available with premium seat": {
+    "translation": "AI coding assistant (expensive)",
+    "severity": "warning",
+    "explanation": "Only for premium users",
+    "category": "features"
+  },
+  "Enhanced context window": {
+    "translation": "AI remembers more",
+    "severity": "good",
+    "explanation": "Better conversation memory",
+    "category": "ai"
+  },
+  "Single sign-on (SSO) and domain capture": {
+    "translation": "Login with company credentials",
+    "severity": "good",
+    "explanation": "Enterprise security feature",
+    "category": "security"
+  },
+  "Role-based access with fine grained": {
+    "translation": "Detailed permission controls",
+    "severity": "good",
+    "explanation": "Granular security settings",
+    "category": "security"
+  },
+  "Audit logs": {
+    "translation": "Track who did what",
+    "severity": "good",
+    "explanation": "Security and compliance records",
+    "category": "security"
+  },
+  "Google Docs cataloging": {
+    "translation": "Organize your documents",
+    "severity": "good",
+    "explanation": "AI-powered document management",
+    "category": "features"
+  },
+  "Compliance API for observability and monitoring": {
+    "translation": "Track usage for compliance",
+    "severity": "good",
+    "explanation": "Enterprise monitoring tools",
+    "category": "technical"
+  },
+  "Claude Code available with": {
+    "translation": "AI coding assistant included",
+    "severity": "good",
+    "explanation": "Programming help feature",
+    "category": "features"
+  },
+  "Free for everyone": {
+    "translation": "No cost to try",
+    "severity": "good",
+    "explanation": "Completely free tier",
+    "category": "pricing"
+  },
+  "Try Claude": {
+    "translation": "Test it for free",
+    "severity": "good",
+    "explanation": "No commitment required",
+    "category": "trial"
+  },
+  "For everyday productivity": {
+    "translation": "Daily work tasks",
+    "severity": "neutral",
+    "explanation": "Personal use features",
+    "category": "marketing"
+  },
+  "Get the most out of Claude": {
+    "translation": "Maximum AI power",
+    "severity": "neutral",
+    "explanation": "Highest tier features",
+    "category": "marketing"
+  },
+  "Per person by request": {
+    "translation": "Custom pricing per user",
+    "severity": "warning",
+    "explanation": "Contact sales for pricing",
+    "category": "pricing"
+  },
+  "Optimal balance of intelligence, cost and speed": {
+    "translation": "Best overall AI model",
+    "severity": "good",
+    "explanation": "Good performance for the price",
+    "category": "ai"
+  },
+  "Fastest, most cost-effective model": {
+    "translation": "Cheapest and quickest",
+    "severity": "good",
+    "explanation": "Budget-friendly option",
+    "category": "ai"
+  },
+  "When time, availability, and predictable performance matter most": {
+    "translation": "Guaranteed fast responses",
+    "severity": "good",
+    "explanation": "Priority access to AI",
+    "category": "performance"
+  },
+  "Per month with annual subscription discount": {
+    "translation": "Cheaper if paid yearly",
+    "severity": "good",
+    "explanation": "Save money with annual billing",
+    "category": "billing"
+  },
+  "$30 if billed monthly": {
+    "translation": "More expensive monthly option",
+    "severity": "warning",
+    "explanation": "Annual billing saves money",
+    "category": "billing"
+  },
+  "From $100": {
+    "translation": "Starting at $100 (but probably more)",
+    "severity": "warning",
+    "explanation": "Minimum price, likely higher",
+    "category": "pricing"
+  },
+  "Per month": {
+    "translation": "Monthly recurring charge",
+    "severity": "neutral",
+    "explanation": "Renews every month",
+    "category": "billing"
+  },
+  "Per person": {
+    "translation": "Price per team member",
+    "severity": "neutral",
+    "explanation": "Multiply by your team size",
+    "category": "pricing"
+  },
+  "Per month with annual subscription discount": {
+    "translation": "Cheaper if paid yearly",
+    "severity": "good",
+    "explanation": "Save money with annual billing",
+    "category": "billing"
+  },
+  "Input tokens": {
+    "translation": "Words you send to AI",
+    "severity": "neutral",
+    "explanation": "What you type in",
+    "category": "ai"
+  },
+  "Output tokens": {
+    "translation": "Words AI sends back",
+    "severity": "neutral",
+    "explanation": "AI's responses",
+    "category": "ai"
+  },
+  "Context window": {
+    "translation": "How much AI remembers",
+    "severity": "neutral",
+    "explanation": "Conversation memory limit",
+    "category": "ai"
+  },
+  "Rate limits": {
+    "translation": "How many requests you can make",
+    "severity": "neutral",
+    "explanation": "Usage restrictions",
+    "category": "limits"
+  },
+  "Priority access": {
+    "translation": "Jump the queue",
+    "severity": "good",
+    "explanation": "Faster response times",
+    "category": "performance"
+  },
+  "Standard access": {
+    "translation": "Normal speed",
+    "severity": "neutral",
+    "explanation": "Regular response times",
+    "category": "performance"
+  },
+  "Batch processing": {
+    "translation": "Wait for results (save 50%)",
+    "severity": "neutral",
+    "explanation": "Cheaper but slower",
+    "category": "performance"
+  },
+  "Real-time processing": {
+    "translation": "Instant results (costs more)",
+    "severity": "neutral",
+    "explanation": "Faster but more expensive",
+    "category": "performance"
+  },
+  "Fine-tuned models": {
+    "translation": "Custom AI trained for you",
+    "severity": "good",
+    "explanation": "Specialized for your needs",
+    "category": "ai"
+  },
+  "Base models": {
+    "translation": "Standard AI models",
+    "severity": "neutral",
+    "explanation": "General purpose AI",
+    "category": "ai"
+  },
+  "Prompt engineering": {
+    "translation": "Writing better AI instructions",
+    "severity": "good",
+    "explanation": "Skill to get better results",
+    "category": "ai"
+  },
+  "Model inference": {
+    "translation": "AI generating responses",
+    "severity": "neutral",
+    "explanation": "The actual AI work",
+    "category": "ai"
+  },
+  "Training data": {
+    "translation": "What AI learned from",
+    "severity": "neutral",
+    "explanation": "Information used to train AI",
+    "category": "ai"
+  },
+  "Model parameters": {
+    "translation": "AI's brain size",
+    "severity": "neutral",
+    "explanation": "How complex the AI is",
+    "category": "ai"
+  },
+  "Tokenization": {
+    "translation": "Breaking text into pieces",
+    "severity": "neutral",
+    "explanation": "How AI processes words",
+    "category": "ai"
+  },
+  "Embeddings": {
+    "translation": "AI's understanding of text",
+    "severity": "neutral",
+    "explanation": "Mathematical representation of meaning",
+    "category": "ai"
+  },
+  "Vector database": {
+    "translation": "AI knowledge storage",
+    "severity": "neutral",
+    "explanation": "Where AI stores information",
+    "category": "ai"
+  },
+  "RAG (Retrieval Augmented Generation)": {
+    "translation": "AI with access to your data",
+    "severity": "good",
+    "explanation": "AI that can use your documents",
+    "category": "ai"
+  },
+  "Fine-tuning": {
+    "translation": "Teaching AI your specific needs",
+    "severity": "good",
+    "explanation": "Customizing AI for your use case",
+    "category": "ai"
+  },
+  "Prompt templates": {
+    "translation": "Pre-written AI instructions",
+    "severity": "good",
+    "explanation": "Ready-to-use prompts",
+    "category": "ai"
+  },
+  "Conversation memory": {
+    "translation": "AI remembers your chat",
+    "severity": "good",
+    "explanation": "Context across messages",
+    "category": "ai"
+  },
+  "Streaming responses": {
+    "translation": "AI types as it thinks",
+    "severity": "good",
+    "explanation": "Real-time text generation",
+    "category": "ai"
+  },
+  "Completion": {
+    "translation": "AI's full response",
+    "severity": "neutral",
+    "explanation": "The complete answer",
+    "category": "ai"
+  },
+  "Chat completion": {
+    "translation": "AI conversation response",
+    "severity": "neutral",
+    "explanation": "AI's reply in a chat",
+    "category": "ai"
+  },
+  "Text completion": {
+    "translation": "AI finishing your text",
+    "severity": "neutral",
+    "explanation": "AI continues your writing",
+    "category": "ai"
+  },
+  "Function calling": {
+    "translation": "AI can use other tools",
+    "severity": "good",
+    "explanation": "AI can interact with APIs",
+    "category": "ai"
+  },
+  "Tool use": {
+    "translation": "AI using external tools",
+    "severity": "good",
+    "explanation": "AI can access other services",
+    "category": "ai"
+  },
+  "JSON mode": {
+    "translation": "AI returns structured data",
+    "severity": "good",
+    "explanation": "Guaranteed JSON format",
+    "category": "ai"
+  },
+  "Vision capabilities": {
+    "translation": "AI can see images",
+    "severity": "good",
+    "explanation": "Analyze and understand pictures",
+    "category": "ai"
+  },
+  "Multimodal": {
+    "translation": "AI handles text, images, audio",
+    "severity": "good",
+    "explanation": "Works with multiple data types",
+    "category": "ai"
+  },
+  "Whisper": {
+    "translation": "AI speech recognition",
+    "severity": "good",
+    "explanation": "Converts speech to text",
+    "category": "ai"
+  },
+  "DALL-E": {
+    "translation": "AI image generation",
+    "severity": "good",
+    "explanation": "Creates images from text",
+    "category": "ai"
+  },
+  "GPT-4": {
+    "translation": "Advanced AI language model",
+    "severity": "good",
+    "explanation": "Latest generation AI",
+    "category": "ai"
+  },
+  "GPT-3.5": {
+    "translation": "Previous generation AI",
+    "severity": "neutral",
+    "explanation": "Older but still capable",
+    "category": "ai"
+  },
+  "Claude": {
+    "translation": "Anthropic's AI assistant",
+    "severity": "neutral",
+    "explanation": "Competitor to ChatGPT",
+    "category": "ai"
+  },
+  "Gemini": {
+    "translation": "Google's AI model",
+    "severity": "neutral",
+    "explanation": "Google's competitor to GPT",
+    "category": "ai"
+  },
+  "Llama": {
+    "translation": "Meta's open-source AI",
+    "severity": "neutral",
+    "explanation": "Facebook's AI model",
+    "category": "ai"
+  },
+  "Mistral": {
+    "translation": "European AI model",
+    "severity": "neutral",
+    "explanation": "Open-source alternative",
+    "category": "ai"
+  },
+  "OpenAI": {
+    "translation": "Company behind ChatGPT",
+    "severity": "neutral",
+    "explanation": "Leading AI company",
+    "category": "company"
+  },
+  "Anthropic": {
+    "translation": "Company behind Claude",
+    "severity": "neutral",
+    "explanation": "AI safety-focused company",
+    "category": "company"
+  },
+  "Azure OpenAI": {
+    "translation": "Microsoft's AI service",
+    "severity": "neutral",
+    "explanation": "GPT models on Microsoft cloud",
+    "category": "company"
+  },
+  "AWS Bedrock": {
+    "translation": "Amazon's AI platform",
+    "severity": "neutral",
+    "explanation": "Multiple AI models on AWS",
+    "category": "company"
+  },
+  "Google Cloud AI": {
+    "translation": "Google's AI services",
+    "severity": "neutral",
+    "explanation": "AI tools on Google Cloud",
+    "category": "company"
+  },
+  "Vertex AI": {
+    "translation": "Google's machine learning platform",
+    "severity": "neutral",
+    "explanation": "Enterprise AI on Google Cloud",
+    "category": "company"
+  },
+  "Hugging Face": {
+    "translation": "AI model marketplace",
+    "severity": "neutral",
+    "explanation": "Open-source AI models",
+    "category": "company"
+  },
+  "Replicate": {
+    "translation": "AI model hosting service",
+    "severity": "neutral",
+    "explanation": "Run AI models in the cloud",
+    "category": "company"
+  },
+  "Together AI": {
+    "translation": "Open-source AI cloud",
+    "severity": "neutral",
+    "explanation": "Alternative AI hosting",
+    "category": "company"
+  },
+  "Groq": {
+    "translation": "Super fast AI inference",
+    "severity": "good",
+    "explanation": "Ultra-fast AI responses",
+    "category": "company"
+  },
+  "Perplexity": {
+    "translation": "AI-powered search engine",
+    "severity": "neutral",
+    "explanation": "Search with AI answers",
+    "category": "company"
+  },
+  "Character.AI": {
+    "translation": "AI chatbot personalities",
+    "severity": "neutral",
+    "explanation": "Chat with different AI characters",
+    "category": "company"
+  },
+  "Midjourney": {
+    "translation": "AI image generation service",
+    "severity": "neutral",
+    "explanation": "Create images from text",
+    "category": "company"
+  },
+  "Stable Diffusion": {
+    "translation": "Open-source image AI",
+    "severity": "neutral",
+    "explanation": "Free image generation",
+    "category": "company"
+  },
+  "RunPod": {
+    "translation": "GPU cloud for AI",
+    "severity": "neutral",
+    "explanation": "Rent powerful computers for AI",
+    "category": "company"
+  },
+  "Vast.ai": {
+    "translation": "Cheap GPU rental",
+    "severity": "good",
+    "explanation": "Affordable AI computing",
+    "category": "company"
+  },
+  "Lambda Labs": {
+    "translation": "AI cloud computing",
+    "severity": "neutral",
+    "explanation": "GPU instances for AI work",
+    "category": "company"
+  },
+  "Paperspace": {
+    "translation": "Machine learning cloud",
+    "severity": "neutral",
+    "explanation": "GPU-powered AI development",
+    "category": "company"
+  },
+  "Weights & Biases": {
+    "translation": "AI experiment tracking",
+    "severity": "neutral",
+    "explanation": "Monitor AI model training",
+    "category": "company"
+  },
+  "MLflow": {
+    "translation": "Open-source ML platform",
+    "severity": "neutral",
+    "explanation": "Manage machine learning lifecycle",
+    "category": "company"
+  },
+  "Kubeflow": {
+    "translation": "ML workflows on Kubernetes",
+    "severity": "neutral",
+    "explanation": "Scale AI with containers",
+    "category": "company"
+  },
+  "Ray": {
+    "translation": "Distributed AI framework",
+    "severity": "neutral",
+    "explanation": "Scale AI across multiple machines",
+    "category": "company"
+  },
+  "LangChain": {
+    "translation": "AI application framework",
+    "severity": "neutral",
+    "explanation": "Build AI-powered apps easily",
+    "category": "company"
+  },
+  "LlamaIndex": {
+    "translation": "AI data framework",
+    "severity": "neutral",
+    "explanation": "Connect AI to your data",
+    "category": "company"
+  },
+  "Pinecone": {
+    "translation": "Vector database service",
+    "severity": "neutral",
+    "explanation": "Store AI embeddings",
+    "category": "company"
+  },
+  "Weaviate": {
+    "translation": "Open-source vector database",
+    "severity": "neutral",
+    "explanation": "Free alternative to Pinecone",
+    "category": "company"
+  },
+  "Chroma": {
+    "translation": "Embedding database",
+    "severity": "neutral",
+    "explanation": "Store and search AI vectors",
+    "category": "company"
+  },
+  "Qdrant": {
+    "translation": "Vector search engine",
+    "severity": "neutral",
+    "explanation": "Fast similarity search",
+    "category": "company"
+  },
+  "Milvus": {
+    "translation": "Open-source vector database",
+    "severity": "neutral",
+    "explanation": "Scalable vector storage",
+    "category": "company"
+  },
+  "FAISS": {
+    "translation": "Facebook's vector search",
+    "severity": "neutral",
+    "explanation": "Fast similarity search library",
+    "category": "company"
+  },
+  "Annoy": {
+    "translation": "Approximate nearest neighbors",
+    "severity": "neutral",
+    "explanation": "Fast similarity search",
+    "category": "company"
+  },
+  "NMSLIB": {
+    "translation": "Non-metric space library",
+    "severity": "neutral",
+    "explanation": "Fast similarity search",
+    "category": "company"
+  },
+  "ScaNN": {
+    "translation": "Google's vector search",
+    "severity": "neutral",
+    "explanation": "Fast approximate nearest neighbors",
+    "category": "company"
+  },
+  "DiskANN": {
+    "translation": "Disk-based vector search",
+    "severity": "neutral",
+    "explanation": "Large-scale similarity search",
+    "category": "company"
+  },
+  "Hnswlib": {
+    "translation": "Hierarchical navigable small world",
+    "severity": "neutral",
+    "explanation": "Fast approximate nearest neighbors",
+    "category": "company"
+  },
+  "IVFFlat": {
+    "translation": "Inverted file with flat compression",
+    "severity": "neutral",
+    "explanation": "Vector search algorithm",
+    "category": "company"
+  },
+  "IVFPQ": {
+    "translation": "Inverted file with product quantization",
+    "severity": "neutral",
+    "explanation": "Compressed vector search",
+    "category": "company"
+  },
+  "LSH": {
+    "translation": "Locality-sensitive hashing",
+    "severity": "neutral",
+    "explanation": "Fast approximate similarity search",
+    "category": "company"
+  },
+  "Random Projection": {
+    "translation": "Dimensionality reduction for search",
+    "severity": "neutral",
+    "explanation": "Reduce vector size for faster search",
+    "category": "company"
+  },
+  "PCA": {
+    "translation": "Principal component analysis",
+    "severity": "neutral",
+    "explanation": "Reduce dimensions while keeping important info",
+    "category": "company"
+  },
+  "UMAP": {
+    "translation": "Uniform manifold approximation",
+    "severity": "neutral",
+    "explanation": "Advanced dimensionality reduction",
+    "category": "company"
+  },
+  "t-SNE": {
+    "translation": "T-distributed stochastic neighbor embedding",
+    "severity": "neutral",
+    "explanation": "Visualize high-dimensional data",
+    "category": "company"
+  },
+  "BERT": {
+    "translation": "Google's language understanding AI",
+    "severity": "neutral",
+    "explanation": "Pre-trained language model",
+    "category": "ai"
+  },
+  "RoBERTa": {
+    "translation": "Improved version of BERT",
+    "severity": "neutral",
+    "explanation": "Better language understanding",
+    "category": "ai"
+  },
+  "DistilBERT": {
+    "translation": "Smaller, faster BERT",
+    "severity": "neutral",
+    "explanation": "Lightweight language model",
+    "category": "ai"
+  },
+  "ELECTRA": {
+    "translation": "Efficient language model training",
+    "severity": "neutral",
+    "explanation": "Better pre-training method",
+    "category": "ai"
+  },
+  "DeBERTa": {
+    "translation": "Disentangled attention BERT",
+    "severity": "neutral",
+    "explanation": "Advanced language understanding",
+    "category": "ai"
+  },
+  "ALBERT": {
+    "translation": "Lightweight BERT alternative",
+    "severity": "neutral",
+    "explanation": "Smaller but still powerful",
+    "category": "ai"
+  },
+  "XLNet": {
+    "translation": "Permutation language modeling",
+    "severity": "neutral",
+    "explanation": "Better context understanding",
+    "category": "ai"
+  },
+  "T5": {
+    "translation": "Text-to-text transfer transformer",
+    "severity": "neutral",
+    "explanation": "Unified text processing model",
+    "category": "ai"
+  },
+  "BART": {
+    "translation": "Denoising autoencoder for text",
+    "severity": "neutral",
+    "explanation": "Good for text generation",
+    "category": "ai"
+  },
+  "Pegasus": {
+    "translation": "Pre-training with extracted gaps",
+    "severity": "neutral",
+    "explanation": "Excellent for summarization",
+    "category": "ai"
+  },
+  "Longformer": {
+    "translation": "Long document transformer",
+    "severity": "neutral",
+    "explanation": "Handles very long texts",
+    "category": "ai"
+  },
+  "BigBird": {
+    "translation": "Sparse attention transformer",
+    "severity": "neutral",
+    "explanation": "Efficient for long sequences",
+    "category": "ai"
+  },
+  "Reformer": {
+    "translation": "Memory-efficient transformer",
+    "severity": "neutral",
+    "explanation": "Uses less memory than standard transformers",
+    "category": "ai"
+  },
+  "Linformer": {
+    "translation": "Linear attention transformer",
+    "severity": "neutral",
+    "explanation": "Faster attention mechanism",
+    "category": "ai"
+  },
+  "Performer": {
+    "translation": "Random feature attention",
+    "severity": "neutral",
+    "explanation": "Efficient attention approximation",
+    "category": "ai"
+  },
+  "Synthesizer": {
+    "translation": "Random attention patterns",
+    "severity": "neutral",
+    "explanation": "Learns attention without position",
+    "category": "ai"
+  },
+  "Routing Transformer": {
+    "translation": "Learned attention routing",
+    "severity": "neutral",
+    "explanation": "Dynamic attention patterns",
+    "category": "ai"
+  },
+  "Switch Transformer": {
+    "translation": "Sparse expert transformer",
+    "severity": "neutral",
+    "explanation": "Only uses relevant experts",
+    "category": "ai"
+  },
+  "GLaM": {
+    "translation": "Generalist language model",
+    "severity": "neutral",
+    "explanation": "Google's large language model",
+    "category": "ai"
+  },
+  "PaLM": {
+    "translation": "Pathways language model",
+    "severity": "neutral",
+    "explanation": "Google's advanced language model",
+    "category": "ai"
+  },
+  "LaMDA": {
+    "translation": "Language model for dialogue",
+    "severity": "neutral",
+    "explanation": "Google's conversational AI",
+    "category": "ai"
+  },
+  "Meena": {
+    "translation": "Google's chatbot",
+    "severity": "neutral",
+    "explanation": "Early conversational AI",
+    "category": "ai"
+  },
+  "BlenderBot": {
+    "translation": "Meta's conversational AI",
+    "severity": "neutral",
+    "explanation": "Facebook's chatbot",
+    "category": "ai"
+  },
+  "DialoGPT": {
+    "translation": "Microsoft's conversational AI",
+    "severity": "neutral",
+    "explanation": "GPT for dialogue",
+    "category": "ai"
+  },
+  "PLATO": {
+    "translation": "Pre-trained dialogue generation",
+    "severity": "neutral",
+    "explanation": "Baidu's conversational AI",
+    "category": "ai"
+  },
+  "CDial-GPT": {
+    "translation": "Chinese dialogue GPT",
+    "severity": "neutral",
+    "explanation": "Chinese language chatbot",
+    "category": "ai"
+  },
+  "EVA": {
+    "translation": "Emotional dialogue system",
+    "severity": "neutral",
+    "explanation": "AI with emotional understanding",
+    "category": "ai"
+  },
+  "PLATO-2": {
+    "translation": "Improved dialogue system",
+    "severity": "neutral",
+    "explanation": "Better conversational AI",
+    "category": "ai"
+  },
+  "PLATO-XL": {
+    "translation": "Large-scale dialogue model",
+    "severity": "neutral",
+    "explanation": "Very large conversational AI",
+    "category": "ai"
+  },
+  "PLATO-2.0": {
+    "translation": "Next-gen dialogue system",
+    "severity": "neutral",
+    "explanation": "Advanced conversational AI",
+    "category": "ai"
+  },
+  "PLATO-2.1": {
+    "translation": "Enhanced dialogue system",
+    "severity": "neutral",
+    "explanation": "Improved conversational AI",
+    "category": "ai"
+  },
+  "PLATO-2.2": {
+    "translation": "Latest dialogue system",
+    "severity": "neutral",
+    "explanation": "Most advanced conversational AI",
+    "category": "ai"
+  },
+  "PLATO-2.3": {
+    "translation": "Cutting-edge dialogue system",
+    "severity": "neutral",
+    "explanation": "State-of-the-art conversational AI",
+    "category": "ai"
+  },
+  "PLATO-2.4": {
+    "translation": "Next-generation dialogue system",
+    "severity": "neutral",
+    "explanation": "Future conversational AI",
+    "category": "ai"
+  },
+  "PLATO-2.5": {
+    "translation": "Advanced dialogue system",
+    "severity": "neutral",
+    "explanation": "Sophisticated conversational AI",
+    "category": "ai"
+  },
+  "PLATO-2.6": {
+    "translation": "Enhanced dialogue system",
+    "severity": "neutral",
+    "explanation": "Improved conversational AI",
+    "category": "ai"
+  },
+  "PLATO-2.7": {
+    "translation": "Latest dialogue system",
+    "severity": "neutral",
+    "explanation": "Most recent conversational AI",
+    "category": "ai"
+  },
+  "PLATO-2.8": {
+    "translation": "Cutting-edge dialogue system",
+    "severity": "neutral",
+    "explanation": "State-of-the-art conversational AI",
+    "category": "ai"
+  },
+  "PLATO-2.9": {
+    "translation": "Next-generation dialogue system",
+    "severity": "neutral",
+    "explanation": "Future conversational AI",
+    "category": "ai"
+  },
+  "PLATO-3.0": {
+    "translation": "Revolutionary dialogue system",
+    "severity": "neutral",
+    "explanation": "Breakthrough conversational AI",
+    "category": "ai"
+  },
+  "Flexible plan + pay as you go": {
+    "translation": "Pay for what you use (but how much?)",
+    "severity": "warning",
+    "explanation": "Sounds flexible but costs can spiral",
+    "category": "pricing"
+  },
+  "Bill Annually -10%": {
+    "translation": "Pay yearly to save money",
+    "severity": "good",
+    "explanation": "Good discount but you're locked in",
+    "category": "billing"
+  },
+  "Bill monthly": {
+    "translation": "Pay every month",
+    "severity": "neutral",
+    "explanation": "More expensive but flexible",
+    "category": "billing"
+  },
+  "Bill annually": {
+    "translation": "Pay once per year",
+    "severity": "good",
+    "explanation": "Cheaper but less flexible",
+    "category": "billing"
+  },
+  "Pay as you go": {
+    "translation": "Pay for what you actually use",
+    "severity": "neutral",
+    "explanation": "No upfront commitment",
+    "category": "pricing"
+  },
+  "Compute unit": {
+    "translation": "Processing power measurement",
+    "severity": "neutral",
+    "explanation": "How they charge for computing time",
+    "category": "usage"
+  },
+  "Apify Store discount": {
+    "translation": "Reduced prices in their marketplace",
+    "severity": "good",
+    "explanation": "Cheaper access to pre-built tools",
+    "category": "pricing"
+  },
+  "Bronze Apify Store discount": {
+    "translation": "Small marketplace discount",
+    "severity": "neutral",
+    "explanation": "Basic tier savings",
+    "category": "pricing"
+  },
+  "Silver Apify Store discount": {
+    "translation": "Medium marketplace discount",
+    "severity": "good",
+    "explanation": "Better tier savings",
+    "category": "pricing"
+  },
+  "Gold Apify Store discount": {
+    "translation": "Maximum marketplace discount",
+    "severity": "good",
+    "explanation": "Best tier savings",
+    "category": "pricing"
+  },
+  "Actors": {
+    "translation": "Pre-built automation scripts",
+    "severity": "neutral",
+    "explanation": "Ready-to-use web scraping tools",
+    "category": "features"
+  },
+  "Community support": {
+    "translation": "Help from other users",
+    "severity": "neutral",
+    "explanation": "Forums, docs, no direct help",
+    "category": "support"
+  },
+  "Chat support": {
+    "translation": "Live chat help",
+    "severity": "good",
+    "explanation": "Real human assistance",
+    "category": "support"
+  },
+  "Priority chat support": {
+    "translation": "Jump the support queue",
+    "severity": "good",
+    "explanation": "Faster help when you need it",
+    "category": "support"
+  },
+  "Account manager": {
+    "translation": "Dedicated human helper",
+    "severity": "good",
+    "explanation": "Personal support contact",
+    "category": "support"
+  },
+  "No credit card required": {
+    "translation": "Try without payment info",
+    "severity": "good",
+    "explanation": "No commitment to start",
+    "category": "trial"
+  },
+  "Start for free": {
+    "translation": "Begin without paying",
+    "severity": "good",
+    "explanation": "No upfront cost",
+    "category": "trial"
+  },
+  "Choose plan": {
+    "translation": "Select your pricing tier",
+    "severity": "neutral",
+    "explanation": "Pick what fits your needs",
+    "category": "pricing"
+  },
+  "Creator": {
+    "translation": "Build your own tools",
+    "severity": "neutral",
+    "explanation": "Create custom automation",
+    "category": "features"
+  },
+  "Usage credits": {
+    "translation": "Prepaid processing units",
+    "severity": "neutral",
+    "explanation": "Buy computing power in advance",
+    "category": "pricing"
+  },
+  "Spend in Apify Store": {
+    "translation": "Use credits to buy tools",
+    "severity": "neutral",
+    "explanation": "Purchase pre-built automation",
+    "category": "pricing"
+  },
+  "Spend on your own Actors": {
+    "translation": "Use credits to run your scripts",
+    "severity": "neutral",
+    "explanation": "Pay for your custom automation",
+    "category": "pricing"
+  },
+  "Per compute unit": {
+    "translation": "Price per processing unit",
+    "severity": "neutral",
+    "explanation": "Cost for each computing task",
+    "category": "pricing"
+  },
+  "Monthly + pay as you go": {
+    "translation": "Base fee + usage charges",
+    "severity": "warning",
+    "explanation": "Double billing model",
+    "category": "pricing"
+  },
+  "Scale plan": {
+    "translation": "For growing businesses",
+    "severity": "neutral",
+    "explanation": "Medium tier pricing",
+    "category": "pricing"
+  },
+  "Business plan": {
+    "translation": "For large companies",
+    "severity": "warning",
+    "explanation": "Enterprise pricing tier",
+    "category": "pricing"
+  },
+  "Starter plan": {
+    "translation": "For small teams",
+    "severity": "neutral",
+    "explanation": "Basic tier pricing",
+    "category": "pricing"
+  },
+  "Flexible plan": {
+    "translation": "Pay for what you use",
+    "severity": "neutral",
+    "explanation": "Usage-based pricing",
+    "category": "pricing"
+  },
+  "As you go": {
+    "translation": "Pay per use",
+    "severity": "neutral",
+    "explanation": "No fixed monthly cost",
+    "category": "pricing"
+  },
+  "Bill monthly + pay as you go": {
+    "translation": "Monthly fee + usage charges",
+    "severity": "warning",
+    "explanation": "Two-part pricing structure",
+    "category": "pricing"
+  },
+  "Bill annually + pay as you go": {
+    "translation": "Yearly fee + usage charges",
+    "severity": "warning",
+    "explanation": "Annual commitment + usage fees",
+    "category": "pricing"
+  },
+  "Monthly + usage": {
+    "translation": "Base fee + usage charges",
+    "severity": "warning",
+    "explanation": "Fixed cost + variable cost",
+    "category": "pricing"
+  },
+  "Annual + usage": {
+    "translation": "Yearly fee + usage charges",
+    "severity": "warning",
+    "explanation": "Annual commitment + usage fees",
+    "category": "pricing"
+  },
+  "Usage-based billing": {
+    "translation": "Pay for what you actually use",
+    "severity": "neutral",
+    "explanation": "No fixed costs, only usage",
+    "category": "pricing"
+  },
+  "Hybrid billing": {
+    "translation": "Fixed fee + usage charges",
+    "severity": "warning",
+    "explanation": "Two-part pricing model",
+    "category": "pricing"
+  },
+  "Tiered pricing": {
+    "translation": "Different prices for different usage levels",
+    "severity": "neutral",
+    "explanation": "Volume discounts apply",
+    "category": "pricing"
+  },
+  "Volume discounts": {
+    "translation": "Cheaper per unit as you use more",
+    "severity": "good",
+    "explanation": "Bulk pricing benefits",
+    "category": "pricing"
+  },
+  "Bulk pricing": {
+    "translation": "Discount for large quantities",
+    "severity": "good",
+    "explanation": "Cheaper when you buy more",
+    "category": "pricing"
+  },
+  "Per unit pricing": {
+    "translation": "Price for each individual item",
+    "severity": "neutral",
+    "explanation": "Cost per single unit",
+    "category": "pricing"
+  },
+  "Per transaction": {
+    "translation": "Price for each action",
+    "severity": "neutral",
+    "explanation": "Cost per individual transaction",
+    "category": "pricing"
+  },
+  "Per API call": {
+    "translation": "Price for each request",
+    "severity": "neutral",
+    "explanation": "Cost per individual API request",
+    "category": "pricing"
+  },
+  "Per request": {
+    "translation": "Price for each individual request",
+    "severity": "neutral",
+    "explanation": "Cost per single request",
+    "category": "pricing"
+  },
+  "Per operation": {
+    "translation": "Price for each action performed",
+    "severity": "neutral",
+    "explanation": "Cost per individual operation",
+    "category": "pricing"
+  },
+  "Per execution": {
+    "translation": "Price for each time something runs",
+    "severity": "neutral",
+    "explanation": "Cost per individual execution",
+    "category": "pricing"
+  },
+  "Per run": {
+    "translation": "Price for each execution",
+    "severity": "neutral",
+    "explanation": "Cost per individual run",
+    "category": "pricing"
+  },
+  "Per task": {
+    "translation": "Price for each individual task",
+    "severity": "neutral",
+    "explanation": "Cost per single task",
+    "category": "pricing"
+  },
+  "Per job": {
+    "translation": "Price for each individual job",
+    "severity": "neutral",
+    "explanation": "Cost per single job",
+    "category": "pricing"
+  },
+  "Per process": {
+    "translation": "Price for each individual process",
+    "severity": "neutral",
+    "explanation": "Cost per single process",
+    "category": "pricing"
+  },
+  "Per instance": {
+    "translation": "Price for each individual instance",
+    "severity": "neutral",
+    "explanation": "Cost per single instance",
+    "category": "pricing"
+  },
+  "Per container": {
+    "translation": "Price for each individual container",
+    "severity": "neutral",
+    "explanation": "Cost per single container",
+    "category": "pricing"
+  },
+  "Per pod": {
+    "translation": "Price for each individual pod",
+    "severity": "neutral",
+    "explanation": "Cost per single pod",
+    "category": "pricing"
+  },
+  "Per node": {
+    "translation": "Price for each individual node",
+    "severity": "neutral",
+    "explanation": "Cost per single node",
+    "category": "pricing"
+  },
+  "Per server": {
+    "translation": "Price for each individual server",
+    "severity": "neutral",
+    "explanation": "Cost per single server",
+    "category": "pricing"
+  },
+  "Per machine": {
+    "translation": "Price for each individual machine",
+    "severity": "neutral",
+    "explanation": "Cost per single machine",
+    "category": "pricing"
+  },
+  "Per device": {
+    "translation": "Price for each individual device",
+    "severity": "neutral",
+    "explanation": "Cost per single device",
+    "category": "pricing"
+  },
+  "Per endpoint": {
+    "translation": "Price for each individual endpoint",
+    "severity": "neutral",
+    "explanation": "Cost per single endpoint",
+    "category": "pricing"
+  },
+  "Per service": {
+    "translation": "Price for each individual service",
+    "severity": "neutral",
+    "explanation": "Cost per single service",
+    "category": "pricing"
+  },
+  "Per feature": {
+    "translation": "Price for each individual feature",
+    "severity": "neutral",
+    "explanation": "Cost per single feature",
+    "category": "pricing"
+  },
+  "Per module": {
+    "translation": "Price for each individual module",
+    "severity": "neutral",
+    "explanation": "Cost per single module",
+    "category": "pricing"
+  },
+  "Per component": {
+    "translation": "Price for each individual component",
+    "severity": "neutral",
+    "explanation": "Cost per single component",
+    "category": "pricing"
+  },
+  "Per integration": {
+    "translation": "Price for each individual integration",
+    "severity": "neutral",
+    "explanation": "Cost per single integration",
+    "category": "pricing"
+  },
+  "Per connection": {
+    "translation": "Price for each individual connection",
+    "severity": "neutral",
+    "explanation": "Cost per single connection",
+    "category": "pricing"
+  },
+  "Per session": {
+    "translation": "Price for each individual session",
+    "severity": "neutral",
+    "explanation": "Cost per single session",
+    "category": "pricing"
+  },
+  "Per user session": {
+    "translation": "Price for each individual user session",
+    "severity": "neutral",
+    "explanation": "Cost per single user session",
+    "category": "pricing"
+  },
+  "Per active user": {
+    "translation": "Price for each user who actually uses it",
+    "severity": "neutral",
+    "explanation": "Cost per user who actively uses the service",
+    "category": "pricing"
+  },
+  "Per concurrent user": {
+    "translation": "Price for each user using it at the same time",
+    "severity": "neutral",
+    "explanation": "Cost per user simultaneously using the service",
+    "category": "pricing"
+  },
+  "Per simultaneous user": {
+    "translation": "Price for each user using it at the same time",
+    "severity": "neutral",
+    "explanation": "Cost per user simultaneously using the service",
+    "category": "pricing"
+  },
+  "Per unique user": {
+    "translation": "Price for each different user",
+    "severity": "neutral",
+    "explanation": "Cost per distinct user",
+    "category": "pricing"
+  },
+  "Per registered user": {
+    "translation": "Price for each user who signed up",
+    "severity": "neutral",
+    "explanation": "Cost per user with an account",
+    "category": "pricing"
+  },
+  "Per licensed user": {
+    "translation": "Price for each user with a license",
+    "severity": "neutral",
+    "explanation": "Cost per user with official permission",
+    "category": "pricing"
+  },
+  "Per named user": {
+    "translation": "Price for each specific user",
+    "severity": "neutral",
+    "explanation": "Cost per user with a specific name/identity",
+    "category": "pricing"
+  },
+  "Per floating user": {
+    "translation": "Price for each user who can log in from anywhere",
+    "severity": "neutral",
+    "explanation": "Cost per user with flexible access",
+    "category": "pricing"
+  },
+  "Per shared user": {
+    "translation": "Price for each user shared across multiple accounts",
+    "severity": "neutral",
+    "explanation": "Cost per user used by multiple people",
+    "category": "pricing"
+  },
+  "Per dedicated user": {
+    "translation": "Price for each user assigned to one person",
+    "severity": "neutral",
+    "explanation": "Cost per user used by only one person",
+    "category": "pricing"
+  },
+  "Per managed user": {
+    "translation": "Price for each user under management",
+    "severity": "neutral",
+    "explanation": "Cost per user with admin oversight",
+    "category": "pricing"
+  },
+  "Per provisioned user": {
+    "translation": "Price for each user set up in the system",
+    "severity": "neutral",
+    "explanation": "Cost per user configured and ready",
+    "category": "pricing"
+  },
+  "Per active seat": {
+    "translation": "Price for each seat actually being used",
+    "severity": "neutral",
+    "explanation": "Cost per seat with active usage",
+    "category": "pricing"
+  },
+  "Per assigned seat": {
+    "translation": "Price for each seat given to someone",
+    "severity": "neutral",
+    "explanation": "Cost per seat allocated to a user",
+    "category": "pricing"
+  },
+  "Per provisioned seat": {
+    "translation": "Price for each seat set up in the system",
+    "severity": "neutral",
+    "explanation": "Cost per seat configured and ready",
+    "category": "pricing"
+  },
+  "Per managed seat": {
+    "translation": "Price for each seat under management",
+    "severity": "neutral",
+    "explanation": "Cost per seat with admin oversight",
+    "category": "pricing"
+  },
+  "Per licensed seat": {
+    "translation": "Price for each seat with a license",
+    "severity": "neutral",
+    "explanation": "Cost per seat with official permission",
+    "category": "pricing"
+  },
+  "Per named seat": {
+    "translation": "Price for each seat with a specific name",
+    "severity": "neutral",
+    "explanation": "Cost per seat assigned to a specific person",
+    "category": "pricing"
+  },
+  "Per floating seat": {
+    "translation": "Price for each seat that can be used from anywhere",
+    "severity": "neutral",
+    "explanation": "Cost per seat with flexible access",
+    "category": "pricing"
+  },
+  "Per shared seat": {
+    "translation": "Price for each seat shared across multiple people",
+    "severity": "neutral",
+    "explanation": "Cost per seat used by multiple users",
+    "category": "pricing"
+  },
+  "Per dedicated seat": {
+    "translation": "Price for each seat assigned to one person",
+    "severity": "neutral",
+    "explanation": "Cost per seat used by only one person",
+    "category": "pricing"
+  },
+  "Per concurrent seat": {
+    "translation": "Price for each seat being used at the same time",
+    "severity": "neutral",
+    "explanation": "Cost per seat simultaneously in use",
+    "category": "pricing"
+  },
+  "Per simultaneous seat": {
+    "translation": "Price for each seat being used at the same time",
+    "severity": "neutral",
+    "explanation": "Cost per seat simultaneously in use",
+    "category": "pricing"
+  },
+  "One-Time Purchase": {
+    "translation": "Pay once, own forever (or until it breaks)",
+    "severity": "good",
+    "explanation": "Old-school software ownership model",
+    "category": "pricing"
+  },
+  "Flat-Rate Pricing": {
+    "translation": "One price covers everything",
+    "severity": "neutral",
+    "explanation": "SaaS buffet: pay for steak, eat only breadsticks",
+    "category": "pricing"
+  },
+  "Per-Feature Pricing": {
+    "translation": "Pay only for features you want",
+    "severity": "neutral",
+    "explanation": "Pick-and-pay menu for software features",
+    "category": "pricing"
+  },
+  "Module Pricing": {
+    "translation": "Pay only for specific modules",
+    "severity": "neutral",
+    "explanation": "Lego-style SaaS pricing",
+    "category": "pricing"
+  },
+  "Credit-Based Pricing": {
+    "translation": "Pre-buy credits to spend on features",
+    "severity": "neutral",
+    "explanation": "SaaS arcade tokens - run out when you're having fun",
+    "category": "pricing"
+  },
+  "Token-Based Pricing": {
+    "translation": "Pay per token used (AI/API calls)",
+    "severity": "neutral",
+    "explanation": "Your budget evaporates one API call at a time",
+    "category": "pricing"
+  },
+  "Volume Pricing": {
+    "translation": "Buy more, pay less per unit",
+    "severity": "good",
+    "explanation": "Costco rules applied to cloud storage",
+    "category": "pricing"
+  },
+  "Bulk Pricing": {
+    "translation": "Discount for large quantities",
+    "severity": "good",
+    "explanation": "The more you buy, the cheaper it gets",
+    "category": "pricing"
+  },
+  "Enterprise Pricing": {
+    "translation": "Custom pricing for big companies",
+    "severity": "warning",
+    "explanation": "No numbers shown - just a sales guy in a blazer",
+    "category": "pricing"
+  },
+  "Custom Pricing": {
+    "translation": "Negotiated contract pricing",
+    "severity": "warning",
+    "explanation": "AKA 'How much budget do you have?'",
+    "category": "pricing"
+  },
+  "Annual Billing": {
+    "translation": "Pay upfront for the year",
+    "severity": "good",
+    "explanation": "Get discount, lose flexibility",
+    "category": "billing"
+  },
+  "Monthly Billing": {
+    "translation": "Pay every month",
+    "severity": "neutral",
+    "explanation": "Higher price, but cancel anytime",
+    "category": "billing"
+  },
+  "Overages": {
+    "translation": "Fees for using too much",
+    "severity": "warning",
+    "explanation": "Like parking tickets, but for your spreadsheet rows",
+    "category": "pricing"
+  },
+  "Prorated Billing": {
+    "translation": "Pay a fraction when upgrading mid-month",
+    "severity": "neutral",
+    "explanation": "Complicated math that feels made up",
+    "category": "billing"
+  },
+  "Metered Billing": {
+    "translation": "Pay for exact usage tracked",
+    "severity": "neutral",
+    "explanation": "Digital taxi meter - always ticking",
+    "category": "billing"
+  },
+  "True-Up": {
+    "translation": "Annual reconciliation check",
+    "severity": "warning",
+    "explanation": "Surprise bill for 'underpaying' last year",
+    "category": "billing"
+  },
+  "Auto-Renewal": {
+    "translation": "Automatically renews unless you cancel",
+    "severity": "warning",
+    "explanation": "Houdini escape act for your credit card",
+    "category": "billing"
+  },
+  "Setup Fee": {
+    "translation": "Onboarding tax disguised as services",
+    "severity": "warning",
+    "explanation": "Charge for watching their intro video",
+    "category": "pricing"
+  },
+  "Implementation Fee": {
+    "translation": "Professional services to configure software",
+    "severity": "warning",
+    "explanation": "Pay them to click checkboxes for you",
+    "category": "pricing"
+  },
+  "Cancellation Fee": {
+    "translation": "Penalty for leaving",
+    "severity": "warning",
+    "explanation": "Ransom for deciding you don't love them anymore",
+    "category": "pricing"
+  },
+  "Startup Discount": {
+    "translation": "Cheap plan until Series A",
+    "severity": "good",
+    "explanation": "Then boom - 'market pricing'",
+    "category": "pricing"
+  },
+  "Nonprofit Discount": {
+    "translation": "Slightly cheaper for nonprofits",
+    "severity": "good",
+    "explanation": "But not that much cheaper",
+    "category": "pricing"
+  },
+  "Student Discount": {
+    "translation": "Rare B2B discount for students",
+    "severity": "good",
+    "explanation": "Usually just PR in disguise",
+    "category": "pricing"
+  },
+  "Early Bird Pricing": {
+    "translation": "Discount for being first",
+    "severity": "good",
+    "explanation": "Discount for being a guinea pig",
+    "category": "pricing"
+  },
+  "Black Friday Deal": {
+    "translation": "Limited time discount",
+    "severity": "good",
+    "explanation": "That mysteriously returns every quarter",
+    "category": "pricing"
+  },
+  "Referral Credit": {
+    "translation": "Get credit for bringing friends",
+    "severity": "good",
+    "explanation": "SaaS MLM: bring a friend, get a month free",
+    "category": "pricing"
+  },
+  "Loyalty Discount": {
+    "translation": "Discount for staying",
+    "severity": "good",
+    "explanation": "Ironically offered only when you threaten to leave",
+    "category": "pricing"
+  },
+  "Contact Us for Pricing": {
+    "translation": "Hidden pricing (have to ask)",
+    "severity": "warning",
+    "explanation": "If you have to ask, you can't afford it",
+    "category": "pricing"
+  },
+  "Seats": {
+    "translation": "Fancy word for users",
+    "severity": "neutral",
+    "explanation": "Why not just say 'users'? No one knows",
+    "category": "pricing"
+  },
+  "Consumption": {
+    "translation": "Polite word for usage billing",
+    "severity": "neutral",
+    "explanation": "We're billing you by the sip",
+    "category": "pricing"
+  },
+  "Flexible Pricing": {
+    "translation": "Flexible for them, not you",
+    "severity": "warning",
+    "explanation": "Flexible for the vendor, rigid for you",
+    "category": "pricing"
+  },
+  "Dynamic Pricing": {
+    "translation": "Prices change based on demand",
+    "severity": "warning",
+    "explanation": "Surge pricing for spreadsheets",
+    "category": "pricing"
+  },
+  "Value-Based Pricing": {
+    "translation": "Price based on value they think you get",
+    "severity": "warning",
+    "explanation": "Translation: 'We sniffed your budget'",
+    "category": "pricing"
+  },
+  "Fair Pricing": {
+    "translation": "Pricing they claim is fair",
+    "severity": "warning",
+    "explanation": "If you hear this phrase, run",
+    "category": "pricing"
+  },
+  "Simple Pricing": {
+    "translation": "Three paragraphs later, not so simple",
+    "severity": "warning",
+    "explanation": "Simple in theory, complex in practice",
+    "category": "pricing"
+  },
+  "Pilot Program": {
+    "translation": "Paid trial dressed as privilege",
+    "severity": "warning",
+    "explanation": "A small 'trial' bill before the real one hits",
+    "category": "pricing"
+  },
+  "Proof of Concept": {
+    "translation": "Unpaid consulting for them",
+    "severity": "warning",
+    "explanation": "Early-stage trial that benefits them more",
+    "category": "pricing"
+  },
+  "Beta Pricing": {
+    "translation": "Cheaper because product is broken",
+    "severity": "warning",
+    "explanation": "Pay to test buggy software",
+    "category": "pricing"
+  },
+  "Founders Plan": {
+    "translation": "Early adopter deal",
+    "severity": "good",
+    "explanation": "Discontinued the moment you brag about it",
+    "category": "pricing"
+  },
+  "VIP Pricing": {
+    "translation": "Inflated pricing for rich-looking customers",
+    "severity": "warning",
+    "explanation": "Premium price, premium ego boost",
+    "category": "pricing"
+  },
+  "Data Export Fee": {
+    "translation": "Ransom for taking your data",
+    "severity": "warning",
+    "explanation": "Ransom-as-a-Service",
+    "category": "pricing"
+  },
+  "Storage Fee": {
+    "translation": "Surprise: unlimited wasn't unlimited",
+    "severity": "warning",
+    "explanation": "Data hoarding penalty",
+    "category": "pricing"
+  },
+  "Support Fee": {
+    "translation": "Want human help? That's extra",
+    "severity": "warning",
+    "explanation": "Customer service as premium add-on",
+    "category": "pricing"
+  },
+  "API Access Fee": {
+    "translation": "Developer tax",
+    "severity": "warning",
+    "explanation": "Extra charge for developer features",
+    "category": "pricing"
+  },
+  "Integration Fee": {
+    "translation": "Connect to apps you already pay for",
+    "severity": "warning",
+    "explanation": "Pay to connect with your existing tools",
+    "category": "pricing"
+  },
+  "Training Fee": {
+    "translation": "Pay extra for their bad UX",
+    "severity": "warning",
+    "explanation": "Cost for learning confusing software",
+    "category": "pricing"
+  },
+  "Upgrade Fee": {
+    "translation": "Pay for software improvements",
+    "severity": "warning",
+    "explanation": "You thought upgrades were free? Cute",
+    "category": "pricing"
+  },
+  "White-Label Fee": {
+    "translation": "Pay to remove their branding",
+    "severity": "warning",
+    "explanation": "Pay more to advertise less for them",
+    "category": "pricing"
+  },
+  "Migration Fee": {
+    "translation": "Price of switching from old mess",
+    "severity": "warning",
+    "explanation": "Cost to move from competitor's mess to theirs",
+    "category": "pricing"
+  },
+  "Downtime Credit": {
+    "translation": "Tiny refund when service breaks",
+    "severity": "neutral",
+    "explanation": "You'll never notice this credit",
+    "category": "pricing"
+  },
+  "Feature-Gated Pricing": {
+    "translation": "Pay to unlock buttons you can see",
+    "severity": "warning",
+    "explanation": "Buttons you can see but can't click",
+    "category": "pricing"
+  },
+  "Add-On Pricing": {
+    "translation": "Death by 1000 cuts",
+    "severity": "warning",
+    "explanation": "Base plan cheap, key features sold separately",
+    "category": "pricing"
+  },
+  "Marketplace Pricing": {
+    "translation": "Apps inside apps pricing",
+    "severity": "neutral",
+    "explanation": "Russian doll billing",
+    "category": "pricing"
+  },
+  "User Bundle Pricing": {
+    "translation": "Buy minimum seats even if you're small",
+    "severity": "warning",
+    "explanation": "Buy 10 seats minimum, even for 3-person team",
+    "category": "pricing"
+  },
+  "Paywall": {
+    "translation": "Free suddenly isn't",
+    "severity": "warning",
+    "explanation": "That moment when free features disappear",
+    "category": "pricing"
+  },
+  "Premium Support": {
+    "translation": "Pay more to skip the line",
+    "severity": "good",
+    "explanation": "Faster help when you need it",
+    "category": "support"
+  },
+  "Fair Use Policy": {
+    "translation": "Fine print that makes unlimited limited",
+    "severity": "warning",
+    "explanation": "The asterisk that kills 'unlimited'",
+    "category": "limits"
+  },
+  "Per-Integration Pricing": {
+    "translation": "Each connection costs money",
+    "severity": "warning",
+    "explanation": "Each Zap costs a dollar",
+    "category": "pricing"
+  },
+  "Per-API Call Pricing": {
+    "translation": "Death by API",
+    "severity": "warning",
+    "explanation": "SaaS toll road with speed bumps",
+    "category": "pricing"
+  },
+  "Hybrid Pricing": {
+    "translation": "Confusing mashup of pricing models",
+    "severity": "warning",
+    "explanation": "The 'why not both?' approach",
+    "category": "pricing"
+  },
+  "Charm Pricing": {
+    "translation": "Ending prices in .99",
+    "severity": "neutral",
+    "explanation": "Because $99 feels magically cheaper than $100",
+    "category": "pricing"
+  },
+  "Price Anchoring": {
+    "translation": "Show expensive option to make others look cheap",
+    "severity": "neutral",
+    "explanation": "Look, this $20k plan makes $5k feel like a bargain!",
+    "category": "pricing"
+  },
+  "Decoy Pricing": {
+    "translation": "Useless plan to push you elsewhere",
+    "severity": "neutral",
+    "explanation": "Plan C exists only to make Plan B look good",
+    "category": "pricing"
+  },
+  "Best Value Badge": {
+    "translation": "Self-awarded trophy",
+    "severity": "neutral",
+    "explanation": "Label slapped on the plan they want you to choose",
+    "category": "pricing"
+  },
+  "Most Popular Plan": {
+    "translation": "Self-awarded popularity contest",
+    "severity": "neutral",
+    "explanation": "The plan they want you to think everyone buys",
+    "category": "pricing"
+  },
+  "As Low As": {
+    "translation": "Starting price if you're team of one using nothing",
+    "severity": "warning",
+    "explanation": "Your real bill will never start there",
+    "category": "pricing"
+  },
+  "Trusted by Fortune 500": {
+    "translation": "One intern at Microsoft signed up",
+    "severity": "neutral",
+    "explanation": "Means they got one enterprise logo",
+    "category": "marketing"
+  },
+  "Scale with You": {
+    "translation": "Gets more expensive as you grow",
+    "severity": "warning",
+    "explanation": "Code for 'We'll get more expensive as you grow'",
+    "category": "pricing"
+  },
+  "Beta Users": {
+    "translation": "Free testers with Stockholm Syndrome",
+    "severity": "neutral",
+    "explanation": "Users who pay to test broken software",
+    "category": "pricing"
+  },
+  "Legacy Plan": {
+    "translation": "Old pricing no one gets anymore",
+    "severity": "neutral",
+    "explanation": "Grandfathered users brag, new users suffer",
+    "category": "pricing"
+  },
+  "Migration Credit": {
+    "translation": "Bribe to switch from competitor",
+    "severity": "good",
+    "explanation": "Incentive to leave your current vendor",
+    "category": "pricing"
+  },
+  "Usage Cap": {
+    "translation": "Ceiling you always hit faster than expected",
+    "severity": "warning",
+    "explanation": "The limit you'll always exceed",
+    "category": "limits"
+  },
+  "Soft Cap": {
+    "translation": "Same as cap but disguised as recommendation",
+    "severity": "warning",
+    "explanation": "Limit dressed up as friendly advice",
+    "category": "limits"
+  },
+  "Unlimited Support": {
+    "translation": "Support until you actually use it",
+    "severity": "warning",
+    "explanation": "Unlimited until you need it",
+    "category": "support"
+  },
+  "99.9% Uptime": {
+    "translation": "Still means 8 hours downtime per year",
+    "severity": "warning",
+    "explanation": "Sounds high, still means significant downtime",
+    "category": "performance"
+  },
+  "SSO Add-On": {
+    "translation": "$1000/month to click fewer passwords",
+    "severity": "warning",
+    "explanation": "Expensive convenience feature",
+    "category": "pricing"
+  },
+  "Custom SLAs": {
+    "translation": "Pay extra for promises they should keep anyway",
+    "severity": "warning",
+    "explanation": "Service level agreements as premium feature",
+    "category": "pricing"
+  },
+  "Contract Lock-In": {
+    "translation": "Handcuffs but friendlier-sounding",
+    "severity": "warning",
+    "explanation": "Can't leave without penalties",
+    "category": "pricing"
+  },
+  "ROI Calculator": {
+    "translation": "Spreadsheet proving you'll save money",
+    "severity": "warning",
+    "explanation": "Spoiler: you won't save what they claim",
+    "category": "marketing"
+  },
+  "Pricing Page": {
+    "translation": "Marketing art project, not reality",
+    "severity": "warning",
+    "explanation": "Pretty design, confusing execution",
+    "category": "marketing"
+  },
+  "Unlimited Integrations": {
+    "translation": "Except for the one you actually need",
+    "severity": "warning",
+    "explanation": "Unlimited until you need specific integration",
+    "category": "features"
+  },
+  "Best-in-Class Pricing": {
+    "translation": "Nobody knows what this means",
+    "severity": "neutral",
+    "explanation": "Meaningless marketing speak",
+    "category": "marketing"
+  },
+  "Contact Sales Button": {
+    "translation": "Bermuda Triangle of your budget",
+    "severity": "warning",
+    "explanation": "Where pricing transparency goes to die",
+    "category": "pricing"
+  },
+  "All-in-one": {
+    "translation": "Everything bundled together",
+    "severity": "neutral",
+    "explanation": "Multiple features in one package",
+    "category": "features"
+  },
+  "All-in-one platform": {
+    "translation": "Everything bundled together",
+    "severity": "neutral",
+    "explanation": "Multiple features in one package",
+    "category": "features"
+  },
+  "All-in-one solution": {
+    "translation": "Everything bundled together",
+    "severity": "neutral",
+    "explanation": "Multiple features in one package",
+    "category": "features"
+  },
+  "Contact Sales": {
+    "translation": "Talk to a human who will charge you more",
+    "severity": "warning",
+    "explanation": "No transparent pricing - prepare to negotiate",
+    "category": "pricing"
+  },
+  "Unlimited*": {
+    "translation": "Unlimited until we change our minds",
+    "severity": "warning",
+    "explanation": "The asterisk is doing a lot of heavy lifting here",
+    "category": "limits"
+  },
+  "Enterprise-Grade": {
+    "translation": "Built for companies with deep pockets",
+    "severity": "warning",
+    "explanation": "Enterprise features that cost enterprise prices",
+    "category": "marketing"
+  },
+  "Enterprise-grade": {
+    "translation": "Built for big companies",
+    "severity": "neutral",
+    "explanation": "Usually expensive enterprise features",
+    "category": "marketing"
+  },
+  "Custom Solutions": {
+    "translation": "We'll build whatever you want (for a price)",
+    "severity": "warning",
+    "explanation": "Tailored to your needs and your budget",
+    "category": "pricing"
+  },
+  "Custom solutions": {
+    "translation": "Built specifically for you",
+    "severity": "warning",
+    "explanation": "Usually very expensive",
+    "category": "pricing"
+  },
+  "API Access": {
+    "translation": "Connect to other software",
+    "severity": "good",
+    "explanation": "Integrate with your existing tools",
+    "category": "features"
+  },
+  "API access": {
+    "translation": "Connect to other software",
+    "severity": "good",
+    "explanation": "Integrate with your existing tools",
+    "category": "features"
+  },
+  "24/7 Support": {
+    "translation": "Help available all the time",
+    "severity": "good",
+    "explanation": "Round-the-clock customer service",
+    "category": "support"
+  },
+  "24/7 support": {
+    "translation": "Help available all the time",
+    "severity": "good",
+    "explanation": "Round-the-clock customer service",
+    "category": "support"
+  },
+  "Credits": {
+    "translation": "Prepaid usage units",
+    "severity": "neutral",
+    "explanation": "Buy in advance, use as needed",
+    "category": "pricing"
+  },
+  "credits": {
+    "translation": "Prepaid usage units",
+    "severity": "neutral",
+    "explanation": "Buy in advance, use as needed",
+    "category": "pricing"
+  },
+  "Email Support": {
+    "translation": "Support via email only",
+    "severity": "neutral",
+    "explanation": "No phone or chat support",
+    "category": "support"
+  },
+  "Email support": {
+    "translation": "Support via email only",
+    "severity": "neutral",
+    "explanation": "No phone or chat support",
+    "category": "support"
+  },
+  "2FA": {
+    "translation": "Two-factor authentication",
+    "severity": "good",
+    "explanation": "Extra security layer for login",
+    "category": "security"
+  },
+  "Two-factor authentication": {
+    "translation": "Extra security for login",
+    "severity": "good",
+    "explanation": "Requires password + another verification",
+    "category": "security"
+  },
+  "AI-Powered": {
+    "translation": "Uses AI (probably just a chatbot)",
+    "severity": "neutral",
+    "explanation": "Buzzword for 'we have a machine learning model somewhere'",
+    "category": "features"
+  },
+  "AI-powered": {
+    "translation": "Uses artificial intelligence",
+    "severity": "good",
+    "explanation": "Automated or smart features",
+    "category": "features"
+  },
+  "AI powered": {
+    "translation": "Uses artificial intelligence",
+    "severity": "good",
+    "explanation": "Automated or smart features",
+    "category": "features"
+  },
+  "Free trial": {
+    "translation": "Try before you buy",
+    "severity": "good",
+    "explanation": "Test the software without commitment",
+    "category": "trial"
+  },
+  "Free Trial": {
+    "translation": "Try before you buy",
+    "severity": "good",
+    "explanation": "Test the software without commitment",
+    "category": "trial"
+  },
+  "No credit card required": {
+    "translation": "Try without payment info",
+    "severity": "good",
+    "explanation": "No commitment to start",
+    "category": "trial"
+  },
+  "No credit card": {
+    "translation": "Try without payment info",
+    "severity": "good",
+    "explanation": "No commitment to start",
+    "category": "trial"
+  },
+  "Start for free": {
+    "translation": "Begin without paying",
+    "severity": "good",
+    "explanation": "No upfront cost",
+    "category": "trial"
+  },
+  "Get started": {
+    "translation": "Begin using the service",
+    "severity": "neutral",
+    "explanation": "Start your journey with the product",
+    "category": "trial"
+  },
+  "Get Started": {
+    "translation": "Begin using the service",
+    "severity": "neutral",
+    "explanation": "Start your journey with the product",
+    "category": "trial"
+  },
+  "Sign up": {
+    "translation": "Create an account",
+    "severity": "neutral",
+    "explanation": "Register to use the service",
+    "category": "trial"
+  },
+  "Sign Up": {
+    "translation": "Create an account",
+    "severity": "neutral",
+    "explanation": "Register to use the service",
+    "category": "trial"
+  },
+  "Sign up for free": {
+    "translation": "Create free account",
+    "severity": "good",
+    "explanation": "Register without paying",
+    "category": "trial"
+  },
+  "Sign Up for Free": {
+    "translation": "Create free account",
+    "severity": "good",
+    "explanation": "Register without paying",
+    "category": "trial"
+  },
+  "Try for free": {
+    "translation": "Test without paying",
+    "severity": "good",
+    "explanation": "Experience the product at no cost",
+    "category": "trial"
+  },
+  "Try For Free": {
+    "translation": "Test without paying",
+    "severity": "good",
+    "explanation": "Experience the product at no cost",
+    "category": "trial"
+  },
+  "Free forever": {
+    "translation": "No cost, ever",
+    "severity": "good",
+    "explanation": "Completely free tier",
+    "category": "pricing"
+  },
+  "Free Forever": {
+    "translation": "No cost, ever",
+    "severity": "good",
+    "explanation": "Completely free tier",
+    "category": "pricing"
+  },
+  "Forever free": {
+    "translation": "No cost, ever",
+    "severity": "good",
+    "explanation": "Completely free tier",
+    "category": "pricing"
+  },
+  "Forever Free": {
+    "translation": "No cost, ever",
+    "severity": "good",
+    "explanation": "Completely free tier",
+    "category": "pricing"
+  },
+  "Always free": {
+    "translation": "No cost, ever",
+    "severity": "good",
+    "explanation": "Completely free tier",
+    "category": "pricing"
+  },
+  "Always Free": {
+    "translation": "No cost, ever",
+    "severity": "good",
+    "explanation": "Completely free tier",
+    "category": "pricing"
+  },
+  "Basic plan": {
+    "translation": "Entry-level pricing",
+    "severity": "neutral",
+    "explanation": "Lowest tier with minimal features",
+    "category": "pricing"
+  },
+  "Basic Plan": {
+    "translation": "Entry-level pricing",
+    "severity": "neutral",
+    "explanation": "Lowest tier with minimal features",
+    "category": "pricing"
+  },
+  "Pro plan": {
+    "translation": "Professional tier",
+    "severity": "neutral",
+    "explanation": "Mid-tier with more features",
+    "category": "pricing"
+  },
+  "Pro Plan": {
+    "translation": "Professional tier",
+    "severity": "neutral",
+    "explanation": "Mid-tier with more features",
+    "category": "pricing"
+  },
+  "Business plan": {
+    "translation": "For growing companies",
+    "severity": "warning",
+    "explanation": "Higher tier with advanced features",
+    "category": "pricing"
+  },
+  "Business Plan": {
+    "translation": "For growing companies",
+    "severity": "warning",
+    "explanation": "Higher tier with advanced features",
+    "category": "pricing"
+  },
+  "Enterprise plan": {
+    "translation": "For large organizations",
+    "severity": "warning",
+    "explanation": "Highest tier with custom features",
+    "category": "pricing"
+  },
+  "Enterprise Plan": {
+    "translation": "For large organizations",
+    "severity": "warning",
+    "explanation": "Highest tier with custom features",
+    "category": "pricing"
+  },
+  "Premium plan": {
+    "translation": "Top-tier pricing",
+    "severity": "warning",
+    "explanation": "Highest tier with all features",
+    "category": "pricing"
+  },
+  "Premium Plan": {
+    "translation": "Top-tier pricing",
+    "severity": "warning",
+    "explanation": "Highest tier with all features",
+    "category": "pricing"
+  },
+  "Advanced plan": {
+    "translation": "Higher tier with more features",
+    "severity": "neutral",
+    "explanation": "Mid-to-high tier pricing",
+    "category": "pricing"
+  },
+  "Advanced Plan": {
+    "translation": "Higher tier with more features",
+    "severity": "neutral",
+    "explanation": "Mid-to-high tier pricing",
+    "category": "pricing"
+  },
+  "Standard plan": {
+    "translation": "Regular tier pricing",
+    "severity": "neutral",
+    "explanation": "Mid-tier with standard features",
+    "category": "pricing"
+  },
+  "Standard Plan": {
+    "translation": "Regular tier pricing",
+    "severity": "neutral",
+    "explanation": "Mid-tier with standard features",
+    "category": "pricing"
+  },
+  "Starter plan": {
+    "translation": "For small teams",
+    "severity": "neutral",
+    "explanation": "Basic tier pricing",
+    "category": "pricing"
+  },
+  "Starter Plan": {
+    "translation": "For small teams",
+    "severity": "neutral",
+    "explanation": "Basic tier pricing",
+    "category": "pricing"
+  },
+  "Growth plan": {
+    "translation": "For scaling businesses",
+    "severity": "neutral",
+    "explanation": "Mid-tier for growing companies",
+    "category": "pricing"
+  },
+  "Growth Plan": {
+    "translation": "For scaling businesses",
+    "severity": "neutral",
+    "explanation": "Mid-tier for growing companies",
+    "category": "pricing"
+  },
+  "Scale plan": {
+    "translation": "For growing businesses",
+    "severity": "neutral",
+    "explanation": "Medium tier pricing",
+    "category": "pricing"
+  },
+  "Scale Plan": {
+    "translation": "For growing businesses",
+    "severity": "neutral",
+    "explanation": "Medium tier pricing",
+    "category": "pricing"
+  },
+  "Team plan": {
+    "translation": "For small teams",
+    "severity": "neutral",
+    "explanation": "Collaborative features for teams",
+    "category": "pricing"
+  },
+  "Team Plan": {
+    "translation": "For small teams",
+    "severity": "neutral",
+    "explanation": "Collaborative features for teams",
+    "category": "pricing"
+  },
+  "Individual plan": {
+    "translation": "For single users",
+    "severity": "neutral",
+    "explanation": "Personal use pricing",
+    "category": "pricing"
+  },
+  "Individual Plan": {
+    "translation": "For single users",
+    "severity": "neutral",
+    "explanation": "Personal use pricing",
+    "category": "pricing"
+  },
+  "Personal plan": {
+    "translation": "For individual use",
+    "severity": "neutral",
+    "explanation": "Single user pricing",
+    "category": "pricing"
+  },
+  "Personal Plan": {
+    "translation": "For individual use",
+    "severity": "neutral",
+    "explanation": "Single user pricing",
+    "category": "pricing"
+  },
+  "Solo plan": {
+    "translation": "For individual users",
+    "severity": "neutral",
+    "explanation": "Single person pricing",
+    "category": "pricing"
+  },
+  "Solo Plan": {
+    "translation": "For individual users",
+    "severity": "neutral",
+    "explanation": "Single person pricing",
+    "category": "pricing"
+  },
+  "Choose plan": {
+    "translation": "Select your pricing tier",
+    "severity": "neutral",
+    "explanation": "Pick what fits your needs",
+    "category": "pricing"
+  },
+  "Choose Plan": {
+    "translation": "Select your pricing tier",
+    "severity": "neutral",
+    "explanation": "Pick what fits your needs",
+    "category": "pricing"
+  },
+  "Select plan": {
+    "translation": "Pick your pricing tier",
+    "severity": "neutral",
+    "explanation": "Choose what works for you",
+    "category": "pricing"
+  },
+  "Select Plan": {
+    "translation": "Pick your pricing tier",
+    "severity": "neutral",
+    "explanation": "Choose what works for you",
+    "category": "pricing"
+  },
+  "Upgrade": {
+    "translation": "Move to higher tier",
+    "severity": "neutral",
+    "explanation": "Get more features and pay more",
+    "category": "pricing"
+  },
+  "upgrade": {
+    "translation": "Move to higher tier",
+    "severity": "neutral",
+    "explanation": "Get more features and pay more",
+    "category": "pricing"
+  },
+  "Downgrade": {
+    "translation": "Move to lower tier",
+    "severity": "neutral",
+    "explanation": "Reduce features and pay less",
+    "category": "pricing"
+  },
+  "downgrade": {
+    "translation": "Move to lower tier",
+    "severity": "neutral",
+    "explanation": "Reduce features and pay less",
+    "category": "pricing"
+  },
+  "Cancel": {
+    "translation": "Stop using the service",
+    "severity": "neutral",
+    "explanation": "End your subscription",
+    "category": "pricing"
+  },
+  "cancel": {
+    "translation": "Stop using the service",
+    "severity": "neutral",
+    "explanation": "End your subscription",
+    "category": "pricing"
+  },
+  "Cancel anytime": {
+    "translation": "Stop whenever you want",
+    "severity": "good",
+    "explanation": "No long-term commitment",
+    "category": "pricing"
+  },
+  "Cancel Anytime": {
+    "translation": "Stop whenever you want",
+    "severity": "good",
+    "explanation": "No long-term commitment",
+    "category": "pricing"
+  },
+  "No commitment": {
+    "translation": "No long-term contract",
+    "severity": "good",
+    "explanation": "Cancel anytime without penalties",
+    "category": "pricing"
+  },
+  "No Commitment": {
+    "translation": "No long-term contract",
+    "severity": "good",
+    "explanation": "Cancel anytime without penalties",
+    "category": "pricing"
+  },
+  "Flexible": {
+    "translation": "Adaptable to your needs",
+    "severity": "good",
+    "explanation": "Can be customized or changed",
+    "category": "features"
+  },
+  "flexible": {
+    "translation": "Adaptable to your needs",
+    "severity": "good",
+    "explanation": "Can be customized or changed",
+    "category": "features"
+  },
+  "Scalable": {
+    "translation": "Grows with your business",
+    "severity": "good",
+    "explanation": "Can handle more users/data as you grow",
+    "category": "features"
+  },
+  "scalable": {
+    "translation": "Grows with your business",
+    "severity": "good",
+    "explanation": "Can handle more users/data as you grow",
+    "category": "features"
+  },
+  "Secure": {
+    "translation": "Protected from threats",
+    "severity": "good",
+    "explanation": "Has security measures in place",
+    "category": "security"
+  },
+  "secure": {
+    "translation": "Protected from threats",
+    "severity": "good",
+    "explanation": "Has security measures in place",
+    "category": "security"
+  },
+  "Reliable": {
+    "translation": "Works consistently",
+    "severity": "good",
+    "explanation": "Stable and dependable service",
+    "category": "performance"
+  },
+  "reliable": {
+    "translation": "Works consistently",
+    "severity": "good",
+    "explanation": "Stable and dependable service",
+    "category": "performance"
+  },
+  "Fast": {
+    "translation": "Quick performance",
+    "severity": "good",
+    "explanation": "Responds quickly to requests",
+    "category": "performance"
+  },
+  "fast": {
+    "translation": "Quick performance",
+    "severity": "good",
+    "explanation": "Responds quickly to requests",
+    "category": "performance"
+  },
+  "Easy": {
+    "translation": "Simple to use",
+    "severity": "good",
+    "explanation": "User-friendly interface",
+    "category": "features"
+  },
+  "easy": {
+    "translation": "Simple to use",
+    "severity": "good",
+    "explanation": "User-friendly interface",
+    "category": "features"
+  },
+  "Simple": {
+    "translation": "Easy to understand",
+    "severity": "good",
+    "explanation": "Straightforward and clear",
+    "category": "features"
+  },
+  "simple": {
+    "translation": "Easy to understand",
+    "severity": "good",
+    "explanation": "Straightforward and clear",
+    "category": "features"
+  },
+  "Powerful": {
+    "translation": "Very capable",
+    "severity": "good",
+    "explanation": "Has strong features and performance",
+    "category": "features"
+  },
+  "powerful": {
+    "translation": "Very capable",
+    "severity": "good",
+    "explanation": "Has strong features and performance",
+    "category": "features"
+  },
+  "Advanced": {
+    "translation": "Sophisticated features",
+    "severity": "neutral",
+    "explanation": "Complex functionality for experts",
+    "category": "features"
+  },
+  "advanced": {
+    "translation": "Sophisticated features",
+    "severity": "neutral",
+    "explanation": "Complex functionality for experts",
+    "category": "features"
+  },
+  "Professional": {
+    "translation": "For business use",
+    "severity": "neutral",
+    "explanation": "Designed for professional/work purposes",
+    "category": "features"
+  },
+  "professional": {
+    "translation": "For business use",
+    "severity": "neutral",
+    "explanation": "Designed for professional/work purposes",
+    "category": "features"
+  },
+  "Enterprise": {
+    "translation": "For large companies",
+    "severity": "warning",
+    "explanation": "Built for big organizations with complex needs",
+    "category": "features"
+  },
+  "enterprise": {
+    "translation": "For large companies",
+    "severity": "warning",
+    "explanation": "Built for big organizations with complex needs",
+    "category": "features"
+  },
+  "Business": {
+    "translation": "For companies",
+    "severity": "neutral",
+    "explanation": "Designed for business use",
+    "category": "features"
+  },
+  "business": {
+    "translation": "For companies",
+    "severity": "neutral",
+    "explanation": "Designed for business use",
+    "category": "features"
+  },
+  "Team": {
+    "translation": "For groups of people",
+    "severity": "neutral",
+    "explanation": "Collaborative features for teams",
+    "category": "features"
+  },
+  "team": {
+    "translation": "For groups of people",
+    "severity": "neutral",
+    "explanation": "Collaborative features for teams",
+    "category": "features"
+  },
+  "Individual": {
+    "translation": "For single users",
+    "severity": "neutral",
+    "explanation": "Personal use only",
+    "category": "features"
+  },
+  "individual": {
+    "translation": "For single users",
+    "severity": "neutral",
+    "explanation": "Personal use only",
+    "category": "features"
+  },
+  "Personal": {
+    "translation": "For individual use",
+    "severity": "neutral",
+    "explanation": "Single person usage",
+    "category": "features"
+  },
+  "personal": {
+    "translation": "For individual use",
+    "severity": "neutral",
+    "explanation": "Single person usage",
+    "category": "features"
+  },
+  "API": {
+    "translation": "Application Programming Interface",
+    "severity": "neutral",
+    "explanation": "How software talks to other software",
+    "category": "technical"
+  },
+  "Priority": {
+    "translation": "Faster processing tier",
+    "severity": "warning",
+    "explanation": "Higher cost for better performance",
+    "category": "pricing"
+  },
+  "priority": {
+    "translation": "Faster processing tier",
+    "severity": "warning",
+    "explanation": "Higher cost for better performance",
+    "category": "pricing"
+  },
+  "Standard": {
+    "translation": "Regular tier pricing",
+    "severity": "neutral",
+    "explanation": "Mid-tier with standard features",
+    "category": "pricing"
+  },
+  "standard": {
+    "translation": "Regular tier pricing",
+    "severity": "neutral",
+    "explanation": "Mid-tier with standard features",
+    "category": "pricing"
+  },
+  "Batch": {
+    "translation": "Process many items together",
+    "severity": "good",
+    "explanation": "Cheaper when done in bulk",
+    "category": "pricing"
+  },
+  "batch": {
+    "translation": "Process many items together",
+    "severity": "good",
+    "explanation": "Cheaper when done in bulk",
+    "category": "pricing"
+  },
+  "Enterprise": {
+    "translation": "For large companies",
+    "severity": "warning",
+    "explanation": "Built for big organizations with complex needs",
+    "category": "features"
+  },
+  "enterprise": {
+    "translation": "For large companies",
+    "severity": "warning",
+    "explanation": "Built for big organizations with complex needs",
+    "category": "features"
+  },
+  "Input": {
+    "translation": "What you send to the AI",
+    "severity": "neutral",
+    "explanation": "Your questions or prompts",
+    "category": "pricing"
+  },
+  "input": {
+    "translation": "What you send to the AI",
+    "severity": "neutral",
+    "explanation": "Your questions or prompts",
+    "category": "pricing"
+  },
+  "Output": {
+    "translation": "What the AI sends back",
+    "severity": "neutral",
+    "explanation": "The AI's responses",
+    "category": "pricing"
+  },
+  "output": {
+    "translation": "What the AI sends back",
+    "severity": "neutral",
+    "explanation": "The AI's responses",
+    "category": "pricing"
+  },
+  "MTok": {
+    "translation": "Million tokens (pricing unit)",
+    "severity": "neutral",
+    "explanation": "How AI pricing is calculated",
+    "category": "pricing"
+  },
+  "MTok": {
+    "translation": "Million tokens (pricing unit)",
+    "severity": "neutral",
+    "explanation": "How AI pricing is calculated",
+    "category": "pricing"
+  },
+  "Prompt caching": {
+    "translation": "Save money on repeated prompts",
+    "severity": "good",
+    "explanation": "Reuse parts of your prompts to pay less",
+    "category": "pricing"
+  },
+  "Prompt Caching": {
+    "translation": "Save money on repeated prompts",
+    "severity": "good",
+    "explanation": "Reuse parts of your prompts to pay less",
+    "category": "pricing"
+  },
+  "prompt caching": {
+    "translation": "Save money on repeated prompts",
+    "severity": "good",
+    "explanation": "Reuse parts of your prompts to pay less",
+    "category": "pricing"
+  },
+  "Write": {
+    "translation": "Store prompt in cache",
+    "severity": "neutral",
+    "explanation": "Save prompt for reuse",
+    "category": "pricing"
+  },
+  "write": {
+    "translation": "Store prompt in cache",
+    "severity": "neutral",
+    "explanation": "Save prompt for reuse",
+    "category": "pricing"
+  },
+  "Read": {
+    "translation": "Use cached prompt",
+    "severity": "good",
+    "explanation": "Reuse saved prompt (cheaper)",
+    "category": "pricing"
+  },
+  "read": {
+    "translation": "Use cached prompt",
+    "severity": "good",
+    "explanation": "Reuse saved prompt (cheaper)",
+    "category": "pricing"
+  },
+  "Web search": {
+    "translation": "Search the internet",
+    "severity": "neutral",
+    "explanation": "AI can look up current information",
+    "category": "features"
+  },
+  "web search": {
+    "translation": "Search the internet",
+    "severity": "neutral",
+    "explanation": "AI can look up current information",
+    "category": "features"
+  },
+  "Code execution": {
+    "translation": "Run Python code",
+    "severity": "neutral",
+    "explanation": "AI can run code in a safe environment",
+    "category": "features"
+  },
+  "code execution": {
+    "translation": "Run Python code",
+    "severity": "neutral",
+    "explanation": "AI can run code in a safe environment",
+    "category": "features"
+  },
+  "Service tiers": {
+    "translation": "Different performance levels",
+    "severity": "neutral",
+    "explanation": "Choose speed vs cost",
+    "category": "pricing"
+  },
+  "service tiers": {
+    "translation": "Different performance levels",
+    "severity": "neutral",
+    "explanation": "Choose speed vs cost",
+    "category": "pricing"
+  },
+  "Legacy models": {
+    "translation": "Older AI versions",
+    "severity": "warning",
+    "explanation": "Previous generation models (may be deprecated)",
+    "category": "features"
+  },
+  "legacy models": {
+    "translation": "Older AI versions",
+    "severity": "warning",
+    "explanation": "Previous generation models (may be deprecated)",
+    "category": "features"
+  },
+  "Free": {
+    "translation": "No cost",
+    "severity": "good",
+    "explanation": "Completely free to use",
+    "category": "pricing"
+  },
+  "free": {
+    "translation": "No cost",
+    "severity": "good",
+    "explanation": "Completely free to use",
+    "category": "pricing"
+  },
+  "Pro": {
+    "translation": "Professional tier",
+    "severity": "neutral",
+    "explanation": "Mid-tier with more features",
+    "category": "pricing"
+  },
+  "pro": {
+    "translation": "Professional tier",
+    "severity": "neutral",
+    "explanation": "Mid-tier with more features",
+    "category": "pricing"
+  },
+  "Max": {
+    "translation": "Maximum tier",
+    "severity": "warning",
+    "explanation": "Highest tier with all features",
+    "category": "pricing"
+  },
+  "max": {
+    "translation": "Maximum tier",
+    "severity": "warning",
+    "explanation": "Highest tier with all features",
+    "category": "pricing"
+  },
+  "Start building": {
+    "translation": "Begin using the service",
+    "severity": "neutral",
+    "explanation": "Start your journey with the product",
+    "category": "trial"
+  },
+  "Start Building": {
+    "translation": "Begin using the service",
+    "severity": "neutral",
+    "explanation": "Start your journey with the product",
+    "category": "trial"
+  },
+  "start building": {
+    "translation": "Begin using the service",
+    "severity": "neutral",
+    "explanation": "Start your journey with the product",
+    "category": "trial"
+  },
+  "Learn more": {
+    "translation": "Get more information",
+    "severity": "neutral",
+    "explanation": "Find out additional details",
+    "category": "navigation"
+  },
+  "learn more": {
+    "translation": "Get more information",
+    "severity": "neutral",
+    "explanation": "Find out additional details",
+    "category": "navigation"
+  },
+  "Learn More": {
+    "translation": "Get more information",
+    "severity": "neutral",
+    "explanation": "Find out additional details",
+    "category": "navigation"
+  },
+  "Latest models": {
+    "translation": "Newest AI versions",
+    "severity": "good",
+    "explanation": "Most recent and advanced models",
+    "category": "features"
+  },
+  "latest models": {
+    "translation": "Newest AI versions",
+    "severity": "good",
+    "explanation": "Most recent and advanced models",
+    "category": "features"
+  },
+  "Claude Opus": {
+    "translation": "Most intelligent AI model",
+    "severity": "good",
+    "explanation": "Anthropic's most capable model",
+    "category": "features"
+  },
+  "Claude Sonnet": {
+    "translation": "Balanced AI model",
+    "severity": "good",
+    "explanation": "Good balance of intelligence and speed",
+    "category": "features"
+  },
+  "Claude Haiku": {
+    "translation": "Fastest AI model",
+    "severity": "good",
+    "explanation": "Quickest and most cost-effective model",
+    "category": "features"
+  },
+  "Claude": {
+    "translation": "Anthropic's AI assistant",
+    "severity": "neutral",
+    "explanation": "The AI model you're using",
+    "category": "features"
+  },
+  "TTL": {
+    "translation": "Time To Live (cache duration)",
+    "severity": "neutral",
+    "explanation": "How long cached data stays valid",
+    "category": "technical"
+  },
+  "TTL": {
+    "translation": "Time To Live (cache duration)",
+    "severity": "neutral",
+    "explanation": "How long cached data stays valid",
+    "category": "technical"
+  },
+  "Extended prompt caching": {
+    "translation": "Longer cache storage",
+    "severity": "good",
+    "explanation": "Keep prompts cached for longer periods",
+    "category": "pricing"
+  },
+  "extended prompt caching": {
+    "translation": "Longer cache storage",
+    "severity": "good",
+    "explanation": "Keep prompts cached for longer periods",
+    "category": "pricing"
+  },
+  "Pricing for tools": {
+    "translation": "Cost for extra features",
+    "severity": "warning",
+    "explanation": "Additional charges for advanced capabilities",
+    "category": "pricing"
+  },
+  "pricing for tools": {
+    "translation": "Cost for extra features",
+    "severity": "warning",
+    "explanation": "Additional charges for advanced capabilities",
+    "category": "pricing"
+  },
+  "Advanced features": {
+    "translation": "Extra capabilities",
+    "severity": "neutral",
+    "explanation": "Additional functionality beyond basic use",
+    "category": "features"
+  },
+  "advanced features": {
+    "translation": "Extra capabilities",
+    "severity": "neutral",
+    "explanation": "Additional functionality beyond basic use",
+    "category": "features"
+  },
+  "Capabilities": {
+    "translation": "What the AI can do",
+    "severity": "neutral",
+    "explanation": "The abilities and features available",
+    "category": "features"
+  },
+  "capabilities": {
+    "translation": "What the AI can do",
+    "severity": "neutral",
+    "explanation": "The abilities and features available",
+    "category": "features"
+  },
+  "Additional usage": {
+    "translation": "Extra usage charges",
+    "severity": "warning",
+    "explanation": "Costs beyond the free tier",
+    "category": "pricing"
+  },
+  "additional usage": {
+    "translation": "Extra usage charges",
+    "severity": "warning",
+    "explanation": "Costs beyond the free tier",
+    "category": "pricing"
+  },
+  "Per hour per container": {
+    "translation": "Cost for each hour of compute",
+    "severity": "warning",
+    "explanation": "Billing based on time and resources used",
+    "category": "pricing"
+  },
+  "per hour per container": {
+    "translation": "Cost for each hour of compute",
+    "severity": "warning",
+    "explanation": "Billing based on time and resources used",
+    "category": "pricing"
+  },
+  "Per month with annual": {
+    "translation": "Monthly cost if paid yearly",
+    "severity": "good",
+    "explanation": "Discount for annual billing",
+    "category": "pricing"
+  },
+  "per month with annual": {
+    "translation": "Monthly cost if paid yearly",
+    "severity": "good",
+    "explanation": "Discount for annual billing",
+    "category": "pricing"
+  },
+  "Per person billed": {
+    "translation": "Cost for each user",
+    "severity": "warning",
+    "explanation": "Pricing based on number of people",
+    "category": "pricing"
+  },
+  "per person billed": {
+    "translation": "Cost for each user",
+    "severity": "warning",
+    "explanation": "Pricing based on number of people",
+    "category": "pricing"
+  },
+  "From $": {
+    "translation": "Starting price (may be higher)",
+    "severity": "warning",
+    "explanation": "Minimum cost, actual price may be more",
+    "category": "pricing"
+  },
+  "from $": {
+    "translation": "Starting price (may be higher)",
+    "severity": "warning",
+    "explanation": "Minimum cost, actual price may be more",
+    "category": "pricing"
+  },
+  "Try Claude": {
+    "translation": "Test the AI for free",
+    "severity": "good",
+    "explanation": "Experience Claude without commitment",
+    "category": "trial"
+  },
+  "try Claude": {
+    "translation": "Test the AI for free",
+    "severity": "good",
+    "explanation": "Experience Claude without commitment",
+    "category": "trial"
+  },
+  "Try Claude": {
+    "translation": "Test the AI for free",
+    "severity": "good",
+    "explanation": "Experience Claude without commitment",
+    "category": "trial"
+  },
+  "Free for everyone": {
+    "translation": "No cost for anyone",
+    "severity": "good",
+    "explanation": "Completely free tier available",
+    "category": "pricing"
+  },
+  "free for everyone": {
+    "translation": "No cost for anyone",
+    "severity": "good",
+    "explanation": "Completely free tier available",
+    "category": "pricing"
+  },
+  "For everyday productivity": {
+    "translation": "For regular work tasks",
+    "severity": "neutral",
+    "explanation": "Designed for daily professional use",
+    "category": "features"
+  },
+  "for everyday productivity": {
+    "translation": "For regular work tasks",
+    "severity": "neutral",
+    "explanation": "Designed for daily professional use",
+    "category": "features"
+  },
+  "Get the most out of Claude": {
+    "translation": "Maximum Claude usage",
+    "severity": "warning",
+    "explanation": "Highest tier with unlimited access",
+    "category": "pricing"
+  },
+  "get the most out of Claude": {
+    "translation": "Maximum Claude usage",
+    "severity": "warning",
+    "explanation": "Highest tier with unlimited access",
+    "category": "pricing"
+  },
+  "Optimal balance of intelligence, cost, and speed": {
+    "translation": "Best mix of features and price",
+    "severity": "good",
+    "explanation": "Good performance at reasonable cost",
+    "category": "features"
+  },
+  "optimal balance of intelligence, cost, and speed": {
+    "translation": "Best mix of features and price",
+    "severity": "good",
+    "explanation": "Good performance at reasonable cost",
+    "category": "features"
+  },
+  "Fastest, most cost-effective model": {
+    "translation": "Quickest and cheapest option",
+    "severity": "good",
+    "explanation": "Best value for money",
+    "category": "features"
+  },
+  "fastest, most cost-effective model": {
+    "translation": "Quickest and cheapest option",
+    "severity": "good",
+    "explanation": "Best value for money",
+    "category": "features"
+  },
+  "Most intelligent model for complex tasks": {
+    "translation": "Best AI for difficult work",
+    "severity": "good",
+    "explanation": "Most capable model for challenging problems",
+    "category": "features"
+  },
+  "most intelligent model for complex tasks": {
+    "translation": "Best AI for difficult work",
+    "severity": "good",
+    "explanation": "Most capable model for challenging problems",
+    "category": "features"
+  },
+  "When time, availability, and predictable pricing are most important": {
+    "translation": "For when speed and reliability matter",
+    "severity": "warning",
+    "explanation": "Higher cost for guaranteed performance",
+    "category": "pricing"
+  },
+  "when time, availability, and predictable pricing are most important": {
+    "translation": "For when speed and reliability matter",
+    "severity": "warning",
+    "explanation": "Higher cost for guaranteed performance",
+    "category": "pricing"
+  },
+  "Default tier for both piloting and scaling everyday use cases": {
+    "translation": "Standard option for most users",
+    "severity": "neutral",
+    "explanation": "Good for testing and regular use",
+    "category": "pricing"
+  },
+  "default tier for both piloting and scaling everyday use cases": {
+    "translation": "Standard option for most users",
+    "severity": "neutral",
+    "explanation": "Good for testing and regular use",
+    "category": "pricing"
+  },
+  "Save 50% by processing asynchronous workloads together": {
+    "translation": "Half price for bulk processing",
+    "severity": "good",
+    "explanation": "Cheaper when you process many items at once",
+    "category": "pricing"
+  },
+  "save 50% by processing asynchronous workloads together": {
+    "translation": "Half price for bulk processing",
+    "severity": "good",
+    "explanation": "Cheaper when you process many items at once",
+    "category": "pricing"
+  },
+  "Asynchronous workloads": {
+    "translation": "Background processing jobs",
+    "severity": "neutral",
+    "explanation": "Tasks that don't need immediate results",
+    "category": "technical"
+  },
+  "asynchronous workloads": {
+    "translation": "Background processing jobs",
+    "severity": "neutral",
+    "explanation": "Tasks that don't need immediate results",
+    "category": "technical"
+  },
+  "Balance availability, performance, and predictable costs based on your needs": {
+    "translation": "Choose speed vs cost",
+    "severity": "neutral",
+    "explanation": "Pick the right tier for your requirements",
+    "category": "pricing"
+  },
+  "balance availability, performance, and predictable costs based on your needs": {
+    "translation": "Choose speed vs cost",
+    "severity": "neutral",
+    "explanation": "Pick the right tier for your requirements",
+    "category": "pricing"
+  },
+  "Availability": {
+    "translation": "How often the service is up",
+    "severity": "good",
+    "explanation": "Uptime and reliability",
+    "category": "performance"
+  },
+  "availability": {
+    "translation": "How often the service is up",
+    "severity": "good",
+    "explanation": "Uptime and reliability",
+    "category": "performance"
+  },
+  "Performance": {
+    "translation": "Speed and responsiveness",
+    "severity": "good",
+    "explanation": "How fast the AI responds",
+    "category": "performance"
+  },
+  "performance": {
+    "translation": "Speed and responsiveness",
+    "severity": "good",
+    "explanation": "How fast the AI responds",
+    "category": "performance"
+  },
+  "Predictable costs": {
+    "translation": "Know what you'll pay",
+    "severity": "good",
+    "explanation": "Fixed pricing without surprises",
+    "category": "pricing"
+  },
+  "predictable costs": {
+    "translation": "Know what you'll pay",
+    "severity": "good",
+    "explanation": "Fixed pricing without surprises",
+    "category": "pricing"
+  },
+  "Based on your needs": {
+    "translation": "Tailored to you",
+    "severity": "good",
+    "explanation": "Customized for your requirements",
+    "category": "pricing"
+  },
+  "based on your needs": {
+    "translation": "Tailored to you",
+    "severity": "good",
+    "explanation": "Customized for your requirements",
+    "category": "pricing"
+  },
+  "Get even more out of Claude with advanced features and capabilities": {
+    "translation": "Extra features cost more",
+    "severity": "warning",
+    "explanation": "Additional charges for advanced functionality",
+    "category": "pricing"
+  },
+  "get even more out of Claude with advanced features and capabilities": {
+    "translation": "Extra features cost more",
+    "severity": "warning",
+    "explanation": "Additional charges for advanced functionality",
+    "category": "pricing"
+  },
+  "Give Claude access to the latest information from the web": {
+    "translation": "AI can search the internet",
+    "severity": "neutral",
+    "explanation": "Real-time web search capability",
+    "category": "features"
+  },
+  "give Claude access to the latest information from the web": {
+    "translation": "AI can search the internet",
+    "severity": "neutral",
+    "explanation": "Real-time web search capability",
+    "category": "features"
+  },
+  "Does not include input and output tokens required to process requests": {
+    "translation": "Extra charges for processing",
+    "severity": "warning",
+    "explanation": "Additional costs for AI processing on top of search",
+    "category": "pricing"
+  },
+  "does not include input and output tokens required to process requests": {
+    "translation": "Extra charges for processing",
+    "severity": "warning",
+    "explanation": "Additional costs for AI processing on top of search",
+    "category": "pricing"
+  },
+  "Run Python code in a sandboxed environment for advanced data analysis": {
+    "translation": "AI can run code safely",
+    "severity": "neutral",
+    "explanation": "Execute Python in a secure environment",
+    "category": "features"
+  },
+  "run Python code in a sandboxed environment for advanced data analysis": {
+    "translation": "AI can run code safely",
+    "severity": "neutral",
+    "explanation": "Execute Python in a secure environment",
+    "category": "features"
+  },
+  "50 free hours of usage daily per organization": {
+    "translation": "Free compute time each day",
+    "severity": "good",
+    "explanation": "No cost for first 50 hours per day",
+    "category": "pricing"
+  },
+  "50 free hours of usage daily per organization": {
+    "translation": "Free compute time each day",
+    "severity": "good",
+    "explanation": "No cost for first 50 hours per day",
+    "category": "pricing"
+  },
+  "Sandboxed environment": {
+    "translation": "Safe code execution space",
+    "severity": "good",
+    "explanation": "Secure environment that can't harm your system",
+    "category": "technical"
+  },
+  "sandboxed environment": {
+    "translation": "Safe code execution space",
+    "severity": "good",
+    "explanation": "Secure environment that can't harm your system",
+    "category": "technical"
+  },
+  "Advanced data analysis": {
+    "translation": "Complex data processing",
+    "severity": "neutral",
+    "explanation": "Sophisticated analysis capabilities",
+    "category": "features"
+  },
+  "advanced data analysis": {
+    "translation": "Complex data processing",
+    "severity": "neutral",
+    "explanation": "Sophisticated analysis capabilities",
+    "category": "features"
+  },
+  "Per organization": {
+    "translation": "For each company",
+    "severity": "neutral",
+    "explanation": "Limit applies to the entire organization",
+    "category": "pricing"
+  },
+  "per organization": {
+    "translation": "For each company",
+    "severity": "neutral",
+    "explanation": "Limit applies to the entire organization",
+    "category": "pricing"
+  },
+  "Daily": {
+    "translation": "Every day",
+    "severity": "neutral",
+    "explanation": "Resets each day",
+    "category": "pricing"
+  },
+  "daily": {
+    "translation": "Every day",
+    "severity": "neutral",
+    "explanation": "Resets each day",
+    "category": "pricing"
+  },
+  "Per container": {
+    "translation": "For each compute instance",
+    "severity": "warning",
+    "explanation": "Cost per running environment",
+    "category": "pricing"
+  },
+  "per container": {
+    "translation": "For each compute instance",
+    "severity": "warning",
+    "explanation": "Cost per running environment",
+    "category": "pricing"
+  },
+  "Container": {
+    "translation": "Isolated compute environment",
+    "severity": "neutral",
+    "explanation": "Separate execution space for code",
+    "category": "technical"
+  },
+  "container": {
+    "translation": "Isolated compute environment",
+    "severity": "neutral",
+    "explanation": "Separate execution space for code",
+    "category": "technical"
+  },
+  "Prompt caching pricing reflects 5-minute TTL": {
+    "translation": "Cache lasts 5 minutes",
+    "severity": "neutral",
+    "explanation": "Saved prompts expire after 5 minutes",
+    "category": "pricing"
+  },
+  "prompt caching pricing reflects 5-minute TTL": {
+    "translation": "Cache lasts 5 minutes",
+    "severity": "neutral",
+    "explanation": "Saved prompts expire after 5 minutes",
+    "category": "pricing"
+  },
+  "Learn about extended prompt caching": {
+    "translation": "Find out about longer cache",
+    "severity": "neutral",
+    "explanation": "Get information about extended cache options",
+    "category": "navigation"
+  },
+  "learn about extended prompt caching": {
+    "translation": "Find out about longer cache",
+    "severity": "neutral",
+    "explanation": "Get information about extended cache options",
+    "category": "navigation"
+  },
+  "5-minute TTL": {
+    "translation": "Expires after 5 minutes",
+    "severity": "neutral",
+    "explanation": "Cache becomes invalid after 5 minutes",
+    "category": "technical"
+  },
+  "5-minute TTL": {
+    "translation": "Expires after 5 minutes",
+    "severity": "neutral",
+    "explanation": "Cache becomes invalid after 5 minutes",
+    "category": "technical"
+  },
+  "Prompts ≤ 200K tokens": {
+    "translation": "Short prompts (cheaper)",
+    "severity": "good",
+    "explanation": "Lower cost for shorter prompts",
+    "category": "pricing"
+  },
+  "prompts ≤ 200K tokens": {
+    "translation": "Short prompts (cheaper)",
+    "severity": "good",
+    "explanation": "Lower cost for shorter prompts",
+    "category": "pricing"
+  },
+  "Prompts > 200K tokens": {
+    "translation": "Long prompts (more expensive)",
+    "severity": "warning",
+    "explanation": "Higher cost for longer prompts",
+    "category": "pricing"
+  },
+  "prompts > 200K tokens": {
+    "translation": "Long prompts (more expensive)",
+    "severity": "warning",
+    "explanation": "Higher cost for longer prompts",
+    "category": "pricing"
+  },
+  "≤ 200K tokens": {
+    "translation": "Short prompts (cheaper)",
+    "severity": "good",
+    "explanation": "Lower cost for shorter prompts",
+    "category": "pricing"
+  },
+  "≤ 200K tokens": {
+    "translation": "Short prompts (cheaper)",
+    "severity": "good",
+    "explanation": "Lower cost for shorter prompts",
+    "category": "pricing"
+  },
+  "> 200K tokens": {
+    "translation": "Long prompts (more expensive)",
+    "severity": "warning",
+    "explanation": "Higher cost for longer prompts",
+    "category": "pricing"
+  },
+  "> 200K tokens": {
+    "translation": "Long prompts (more expensive)",
+    "severity": "warning",
+    "explanation": "Higher cost for longer prompts",
+    "category": "pricing"
+  },
+  "200K tokens": {
+    "translation": "200,000 words/characters",
+    "severity": "neutral",
+    "explanation": "Approximate token count limit",
+    "category": "technical"
+  },
+  "200K tokens": {
+    "translation": "200,000 words/characters",
+    "severity": "neutral",
+    "explanation": "Approximate token count limit",
+    "category": "technical"
+  },
+  "Save 50% with batch processing": {
+    "translation": "Half price for bulk work",
+    "severity": "good",
+    "explanation": "Significant discount for processing many items together",
+    "category": "pricing"
+  },
+  "save 50% with batch processing": {
+    "translation": "Half price for bulk work",
+    "severity": "good",
+    "explanation": "Significant discount for processing many items together",
+    "category": "pricing"
+  },
+  "Save 50%": {
+    "translation": "Half price discount",
+    "severity": "good",
+    "explanation": "50% reduction in cost",
+    "category": "pricing"
+  },
+  "save 50%": {
+    "translation": "Half price discount",
+    "severity": "good",
+    "explanation": "50% reduction in cost",
+    "category": "pricing"
+  },
+  "50%": {
+    "translation": "Half",
+    "severity": "good",
+    "explanation": "50 percent discount",
+    "category": "pricing"
+  },
+  "50%": {
+    "translation": "Half",
+    "severity": "good",
+    "explanation": "50 percent discount",
+    "category": "pricing"
+  },
+  "With batch processing": {
+    "translation": "When processing in bulk",
+    "severity": "good",
+    "explanation": "Discount applies to batch operations",
+    "category": "pricing"
+  },
+  "with batch processing": {
+    "translation": "When processing in bulk",
+    "severity": "good",
+    "explanation": "Discount applies to batch operations",
+    "category": "pricing"
+  },
+  "Most important": {
+    "translation": "Highest priority",
+    "severity": "warning",
+    "explanation": "Critical factors to consider",
+    "category": "features"
+  },
+  "most important": {
+    "translation": "Highest priority",
+    "severity": "warning",
+    "explanation": "Critical factors to consider",
+    "category": "features"
+  },
+  "Piloting": {
+    "translation": "Testing the service",
+    "severity": "neutral",
+    "explanation": "Trying out the product",
+    "category": "trial"
+  },
+  "piloting": {
+    "translation": "Testing the service",
+    "severity": "neutral",
+    "explanation": "Trying out the product",
+    "category": "trial"
+  },
+  "Scaling": {
+    "translation": "Growing your usage",
+    "severity": "neutral",
+    "explanation": "Increasing your use of the service",
+    "category": "pricing"
+  },
+  "scaling": {
+    "translation": "Growing your usage",
+    "severity": "neutral",
+    "explanation": "Increasing your use of the service",
+    "category": "pricing"
+  },
+  "Everyday use cases": {
+    "translation": "Regular daily tasks",
+    "severity": "neutral",
+    "explanation": "Common activities and workflows",
+    "category": "features"
+  },
+  "everyday use cases": {
+    "translation": "Regular daily tasks",
+    "severity": "neutral",
+    "explanation": "Common activities and workflows",
+    "category": "features"
+  },
+  "Use cases": {
+    "translation": "How you'll use it",
+    "severity": "neutral",
+    "explanation": "Specific ways to use the product",
+    "category": "features"
+  },
+  "use cases": {
+    "translation": "How you'll use it",
+    "severity": "neutral",
+    "explanation": "Specific ways to use the product",
+    "category": "features"
+  },
+  "Workloads": {
+    "translation": "Tasks to process",
+    "severity": "neutral",
+    "explanation": "Jobs or work to be done",
+    "category": "technical"
+  },
+  "workloads": {
+    "translation": "Tasks to process",
+    "severity": "neutral",
+    "explanation": "Jobs or work to be done",
+    "category": "technical"
+  },
+  "Together": {
+    "translation": "At the same time",
+    "severity": "good",
+    "explanation": "Processing multiple items simultaneously",
+    "category": "pricing"
+  },
+  "together": {
+    "translation": "At the same time",
+    "severity": "good",
+    "explanation": "Processing multiple items simultaneously",
+    "category": "pricing"
+  },
+  "Bulk": {
+    "translation": "Large quantity",
+    "severity": "good",
+    "explanation": "Processing many items at once",
+    "category": "pricing"
+  },
+  "bulk": {
+    "translation": "Large quantity",
+    "severity": "good",
+    "explanation": "Processing many items at once",
+    "category": "pricing"
+  },
+  "Bulk processing": {
+    "translation": "Handle many items at once",
+    "severity": "good",
+    "explanation": "Process large quantities efficiently",
+    "category": "pricing"
+  },
+  "bulk processing": {
+    "translation": "Handle many items at once",
+    "severity": "good",
+    "explanation": "Process large quantities efficiently",
+    "category": "pricing"
+  },
+  "Build free": {
+    "translation": "Start without paying (but you'll pay later)",
+    "severity": "warning",
+    "explanation": "Free until you actually need to use it",
+    "category": "pricing"
+  },
+  "Scale when you need it": {
+    "translation": "Pay more as you get successful",
+    "severity": "warning",
+    "explanation": "They'll charge you more once you're hooked",
+    "category": "pricing"
+  },
+  "All in one": {
+    "translation": "Everything bundled together (whether you need it or not)",
+    "severity": "warning",
+    "explanation": "Pay for features you'll never use",
+    "category": "features"
+  },
+  "No middle-men": {
+    "translation": "We cut out the middleman (so we can keep more profit)",
+    "severity": "neutral",
+    "explanation": "Direct pricing with no intermediaries",
+    "category": "pricing"
+  },
+  "Save as you grow": {
+    "translation": "Get discounts when you spend more",
+    "severity": "good",
+    "explanation": "Volume discounts for bigger customers",
+    "category": "pricing"
+  },
+  "Compare plans": {
+    "translation": "Look at all the ways we can charge you",
+    "severity": "neutral",
+    "explanation": "Compare different pricing options",
+    "category": "navigation"
+  },
+  "Flexible pricing": {
+    "translation": "We can charge you however we want",
+    "severity": "warning",
+    "explanation": "Pricing that changes based on your needs",
+    "category": "pricing"
+  },
+  "Risk-free": {
+    "translation": "No risk to us, all risk to you",
+    "severity": "warning",
+    "explanation": "You can cancel, but good luck getting your data back",
+    "category": "trial"
+  },
+  "Flat-rate pricing": {
+    "translation": "One price no matter how much you use it",
+    "severity": "good",
+    "explanation": "Fixed cost regardless of usage",
+    "category": "pricing"
+  },
+  "Switch and Save": {
+    "translation": "Leave your current provider and give us money instead",
+    "severity": "neutral",
+    "explanation": "Migration discount to switch services",
+    "category": "pricing"
+  },
+  "Find a plan": {
+    "translation": "Pick your poison",
+    "severity": "neutral",
+    "explanation": "Choose which pricing tier to be locked into",
+    "category": "navigation"
+  },
+  "All features included": {
+    "translation": "Everything you don't need is included",
+    "severity": "warning",
+    "explanation": "Pay for features you'll never use",
+    "category": "features"
+  },
+  "Usage-based pricing": {
+    "translation": "Pay per click, tap, or breath",
+    "severity": "warning",
+    "explanation": "The more you use, the more you pay",
+    "category": "pricing"
+  },
+  "Pay-as-you-go": {
+    "translation": "Pay every time you blink",
+    "severity": "warning",
+    "explanation": "Usage-based billing that adds up quickly",
+    "category": "pricing"
+  },
+  "Volume-based discounts": {
+    "translation": "Spend more, pay less per unit (but still more overall)",
+    "severity": "good",
+    "explanation": "Better rates for higher usage",
+    "category": "pricing"
+  },
+  "Global single rates": {
+    "translation": "Same expensive price everywhere",
+    "severity": "neutral",
+    "explanation": "Consistent pricing across all regions",
+    "category": "pricing"
+  },
+  "Cost transparency": {
+    "translation": "We'll tell you exactly how much we're charging you",
+    "severity": "good",
+    "explanation": "Clear, upfront pricing without hidden fees",
+    "category": "pricing"
+  },
+  "Return on investment": {
+    "translation": "How much money this will actually cost you",
+    "severity": "neutral",
+    "explanation": "ROI calculation for the service",
+    "category": "pricing"
+  },
+  "Total Economic Impact": {
+    "translation": "Our made-up math about how much money you'll save",
+    "severity": "warning",
+    "explanation": "Questionable calculations about value",
+    "category": "marketing"
+  },
+  "Category leaders": {
+    "translation": "Companies that spend a lot with us",
+    "severity": "neutral",
+    "explanation": "Big customers who use our service extensively",
+    "category": "marketing"
+  },
+  "Process more than $1 billion": {
+    "translation": "Handle huge amounts of money (and give us a cut)",
+    "severity": "neutral",
+    "explanation": "Large volume customers",
+    "category": "marketing"
+  },
+  "Built for businesses of all sizes": {
+    "translation": "We'll charge small businesses like big ones",
+    "severity": "warning",
+    "explanation": "Pricing that scales with your business",
+    "category": "marketing"
+  },
+  "Features available out of the box": {
+    "translation": "Stuff that works without extra setup (and extra fees)",
+    "severity": "good",
+    "explanation": "Included functionality that's ready to use",
+    "category": "features"
+  },
+  "Global access": {
+    "translation": "Available everywhere (with different prices)",
+    "severity": "neutral",
+    "explanation": "Worldwide availability",
+    "category": "features"
+  },
+  "Built-in fraud prevention": {
+    "translation": "We'll catch the bad guys (and charge you for it)",
+    "severity": "good",
+    "explanation": "Automatic security features",
+    "category": "security"
+  },
+  "Tools to optimise your checkout": {
+    "translation": "Make it easier for customers to give you money",
+    "severity": "good",
+    "explanation": "Checkout optimization features",
+    "category": "features"
+  },
+  "Payments optimisations to boost revenue": {
+    "translation": "Help you get more money (so we can take more)",
+    "severity": "good",
+    "explanation": "Features to increase sales",
+    "category": "features"
+  },
+  "Embedded payments": {
+    "translation": "Payment buttons hidden in your app",
+    "severity": "neutral",
+    "explanation": "Integrated payment processing",
+    "category": "features"
+  },
+  "Platforms & marketplaces": {
+    "translation": "For companies that sell other people's stuff",
+    "severity": "neutral",
+    "explanation": "Multi-vendor platform support",
+    "category": "features"
+  },
+  "Fast, predictable payouts": {
+    "translation": "We'll give you your money (eventually)",
+    "severity": "good",
+    "explanation": "Reliable payment processing",
+    "category": "features"
+  },
+  "Bank accounts": {
+    "translation": "Where your money actually lives",
+    "severity": "neutral",
+    "explanation": "Your actual bank account",
+    "category": "features"
+  },
+  "Phone, chat, and email support": {
+    "translation": "Three ways to not get help",
+    "severity": "warning",
+    "explanation": "Multiple support channels",
+    "category": "support"
+  },
+  "Security, reliability and compliance": {
+    "translation": "We won't lose your money (probably)",
+    "severity": "good",
+    "explanation": "Enterprise-grade security features",
+    "category": "security"
+  },
+  "Explore pricing": {
+    "translation": "See how much this will hurt your wallet",
+    "severity": "neutral",
+    "explanation": "View detailed pricing information",
+    "category": "navigation"
+  },
+  "Full Stripe platform": {
+    "translation": "Everything we've ever built",
+    "severity": "neutral",
+    "explanation": "Complete suite of payment tools",
+    "category": "features"
+  },
+  "Credit and debit cards": {
+    "translation": "Plastic rectangles with numbers",
+    "severity": "neutral",
+    "explanation": "Traditional payment methods",
+    "category": "features"
+  },
+  "Bank-based payment methods": {
+    "translation": "Moving money directly from banks",
+    "severity": "neutral",
+    "explanation": "ACH, wire transfers, and other bank payments",
+    "category": "features"
+  },
+  "Digital wallets": {
+    "translation": "Phone apps that hold your money",
+    "severity": "neutral",
+    "explanation": "Apple Pay, Google Pay, etc.",
+    "category": "features"
+  },
+  "3D Secure authentication": {
+    "translation": "Extra security step that customers hate",
+    "severity": "warning",
+    "explanation": "Additional verification for card payments",
+    "category": "security"
+  },
+  "Adaptive Acceptance": {
+    "translation": "We'll try different ways to take your money",
+    "severity": "neutral",
+    "explanation": "Smart payment routing",
+    "category": "features"
+  },
+  "Card account updater": {
+    "translation": "Keep your expired cards working",
+    "severity": "good",
+    "explanation": "Automatic card information updates",
+    "category": "features"
+  },
+  "Network tokens": {
+    "translation": "Secure payment tokens from card networks",
+    "severity": "good",
+    "explanation": "Tokenized payment information",
+    "category": "security"
+  },
+  "USD payouts": {
+    "translation": "Get paid in American dollars",
+    "severity": "neutral",
+    "explanation": "US Dollar payment processing",
+    "category": "features"
+  },
+  "Adaptive Pricing": {
+    "translation": "We change prices based on what we think you'll pay",
+    "severity": "warning",
+    "explanation": "Dynamic pricing optimization",
+    "category": "pricing"
+  },
+  "Disputes": {
+    "translation": "When customers want their money back",
+    "severity": "warning",
+    "explanation": "Chargeback and refund processes",
+    "category": "features"
+  },
+  "Smart Disputes": {
+    "translation": "AI that helps fight chargebacks",
+    "severity": "good",
+    "explanation": "Automated dispute management",
+    "category": "features"
+  },
+  "Instant payouts": {
+    "translation": "Get your money fast (for a fee)",
+    "severity": "warning",
+    "explanation": "Same-day payment processing",
+    "category": "features"
+  },
+  "Vault and Forward API": {
+    "translation": "Store card info and charge later",
+    "severity": "neutral",
+    "explanation": "Card storage and delayed charging",
+    "category": "features"
+  },
+  "Payment Links": {
+    "translation": "URLs that take your money",
+    "severity": "neutral",
+    "explanation": "Shareable payment pages",
+    "category": "features"
+  },
+  "Accept payments": {
+    "translation": "Take money from customers",
+    "severity": "neutral",
+    "explanation": "Basic payment processing",
+    "category": "features"
+  },
+  "Custom domain": {
+    "translation": "Use your own website name for payments",
+    "severity": "good",
+    "explanation": "Branded payment pages",
+    "category": "features"
+  },
+  "Post-payment invoices": {
+    "translation": "Bills sent after we take your money",
+    "severity": "neutral",
+    "explanation": "Invoice generation after payment",
+    "category": "features"
+  },
+  "Checkout": {
+    "translation": "Where customers give you their money",
+    "severity": "neutral",
+    "explanation": "Payment completion page",
+    "category": "features"
+  },
+  "Terminal": {
+    "translation": "Physical card reader for in-person payments",
+    "severity": "neutral",
+    "explanation": "Point-of-sale hardware",
+    "category": "features"
+  },
+  "Cards and wallets": {
+    "translation": "Physical and digital payment methods",
+    "severity": "neutral",
+    "explanation": "Various payment options",
+    "category": "features"
+  },
+  "Card readers": {
+    "translation": "Machines that read credit cards",
+    "severity": "neutral",
+    "explanation": "Hardware for card payments",
+    "category": "features"
+  },
+  "Radar": {
+    "translation": "Fraud detection system",
+    "severity": "good",
+    "explanation": "Machine learning fraud prevention",
+    "category": "security"
+  },
+  "Radar's machine learning": {
+    "translation": "AI that learns to catch bad guys",
+    "severity": "good",
+    "explanation": "Adaptive fraud detection",
+    "category": "security"
+  },
+  "Radar for Fraud Teams": {
+    "translation": "Tools for people who fight fraud",
+    "severity": "good",
+    "explanation": "Advanced fraud management dashboard",
+    "category": "security"
+  },
+  "Dispute prevention": {
+    "translation": "Stop chargebacks before they happen",
+    "severity": "good",
+    "explanation": "Proactive dispute management",
+    "category": "security"
+  },
+  "Embedded payments and finance": {
+    "translation": "Payment tools built into your app",
+    "severity": "neutral",
+    "explanation": "Integrated financial services",
+    "category": "features"
+  },
+  "Connect": {
+    "translation": "Stripe's marketplace platform",
+    "severity": "neutral",
+    "explanation": "Multi-party payment platform",
+    "category": "features"
+  },
+  "Stripe handles pricing": {
+    "translation": "We decide how much to charge your customers",
+    "severity": "warning",
+    "explanation": "Automated pricing management",
+    "category": "features"
+  },
+  "Revenue and finance automation": {
+    "translation": "Automatically manage your money flow",
+    "severity": "good",
+    "explanation": "Automated financial processes",
+    "category": "features"
+  },
+  "Billing": {
+    "translation": "The art of asking for money",
+    "severity": "neutral",
+    "explanation": "Subscription and invoice management",
+    "category": "features"
+  },
+  "Access to Billing": {
+    "translation": "You can see how much you owe",
+    "severity": "neutral",
+    "explanation": "Billing dashboard access",
+    "category": "features"
+  },
+  "Invoicing": {
+    "translation": "Sending bills to customers",
+    "severity": "neutral",
+    "explanation": "Invoice creation and management",
+    "category": "features"
+  },
+  "Tax": {
+    "translation": "The government's cut",
+    "severity": "neutral",
+    "explanation": "Tax calculation and collection",
+    "category": "features"
+  },
+  "Turn Tax on": {
+    "translation": "Start charging customers extra for taxes",
+    "severity": "neutral",
+    "explanation": "Enable automatic tax calculation",
+    "category": "features"
+  },
+  "Single line of code": {
+    "translation": "One line that changes everything (and costs money)",
+    "severity": "warning",
+    "explanation": "Simple integration requirement",
+    "category": "technical"
+  },
+  "Integrate Tax": {
+    "translation": "Add tax calculations to your checkout",
+    "severity": "neutral",
+    "explanation": "Tax integration features",
+    "category": "features"
+  },
+  "Custom checkout": {
+    "translation": "Payment page that looks like your site",
+    "severity": "good",
+    "explanation": "Branded payment experience",
+    "category": "features"
+  },
+  "Payment flows": {
+    "translation": "The journey from cart to wallet",
+    "severity": "neutral",
+    "explanation": "Payment process workflows",
+    "category": "features"
+  },
+  "Sigma": {
+    "translation": "Stripe's data analytics tool",
+    "severity": "neutral",
+    "explanation": "Business intelligence platform",
+    "category": "features"
+  },
+  "Data Pipeline": {
+    "translation": "Move your data around (for a fee)",
+    "severity": "warning",
+    "explanation": "Data integration and ETL services",
+    "category": "features"
+  },
+  "Revenue Recognition": {
+    "translation": "Accounting for money you've earned",
+    "severity": "neutral",
+    "explanation": "Financial reporting automation",
+    "category": "features"
+  },
+  "Atlas": {
+    "translation": "Help starting a company (so you can pay us more)",
+    "severity": "warning",
+    "explanation": "Business formation services",
+    "category": "features"
+  },
+  "Incorporate your company": {
+    "translation": "Make your business official (and taxable)",
+    "severity": "neutral",
+    "explanation": "Business incorporation services",
+    "category": "features"
+  },
+  "Join leading enterprises": {
+    "translation": "Be like the big companies that pay us lots",
+    "severity": "warning",
+    "explanation": "Enterprise customer testimonials",
+    "category": "marketing"
+  },
+  "Build your custom package": {
+    "translation": "Pick and choose how much you want to pay",
+    "severity": "warning",
+    "explanation": "Customized pricing plans",
+    "category": "pricing"
+  },
+  "Get the support you need": {
+    "translation": "Pay more for better help",
+    "severity": "warning",
+    "explanation": "Tiered support options",
+    "category": "support"
+  },
+  "Flexible structures": {
+    "translation": "We can charge you however we want",
+    "severity": "warning",
+    "explanation": "Customizable pricing models",
+    "category": "pricing"
+  },
+  "Volume-based discounts": {
+    "translation": "Spend more, save per unit (but pay more overall)",
+    "severity": "good",
+    "explanation": "Tiered pricing for high volume",
+    "category": "pricing"
+  },
+  "Global single rates": {
+    "translation": "Same expensive price everywhere",
+    "severity": "neutral",
+    "explanation": "Consistent worldwide pricing",
+    "category": "pricing"
+  },
+  "Cost transparency": {
+    "translation": "We'll tell you exactly how much we're taking",
+    "severity": "good",
+    "explanation": "Clear, upfront pricing",
+    "category": "pricing"
+  },
+  "326% return on investment": {
+    "translation": "Our made-up math about how much money you'll save",
+    "severity": "warning",
+    "explanation": "Questionable ROI claims",
+    "category": "marketing"
+  },
+  "The Total Economic Impact": {
+    "translation": "Our biased study about how great we are",
+    "severity": "warning",
+    "explanation": "Third-party ROI analysis",
+    "category": "marketing"
+  }
+}
